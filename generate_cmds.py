@@ -2,11 +2,11 @@
 
 from fuzzingbook.GrammarFuzzer import GrammarFuzzer
 #from grammar import SCHTASKS_CMDLINE_GRAMMAR
-from grammar_rule.win_bcdedit_boot_conf_tamper import win_bcdedit_boot_conf_tamper_grammar as CMDLINE_GRAMMAR
-
+#from grammar_rule.win_bcdedit_boot_conf_tamper import win_bcdedit_boot_conf_tamper_grammar as CMDLINE_GRAMMAR
+from grammar_rule.win_cmd_assoc_execution import win_cmd_assoc_execution_grammar as CMDLINE_GRAMMAR
 # --- CẤU HÌNH ---
 ITERATIONS = 5000  # Số lượng lệnh muốn tạo
-OUTPUT_FILE = "outputs/generated_commands.txt"  # Tên tệp kết quả
+OUTPUT_FILE = "outputs/win_cmd_assoc_execution.txt"  # Tên tệp kết quả
 # -----------------
 
 class CommandLineGenerator:
