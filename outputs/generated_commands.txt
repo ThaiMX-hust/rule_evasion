@@ -1,0 +1,480 @@
+%windir%\system32\bcdedit.exe "set"  "recoveryenabled" NO
+%windir%\system32\bcdedit.exe "set"  "recoveryenabled" n^o
+%windir%\system32\bcdedit.exe "set"  "recoveryenabled" no
+%windir%\system32\bcdedit.exe "set"  'bootstatuspolicy' ignore^all^failures
+%windir%\system32\bcdedit.exe "set"  'bootstatuspolicy' ignoreallfailures
+%windir%\system32\bcdedit.exe "set"  bootstatuspolicy ignore^all^failures
+%windir%\system32\bcdedit.exe "set"  bootstatuspolicy ignoreallfailures
+%windir%\system32\bcdedit.exe "set"  recoveryenabled NO
+%windir%\system32\bcdedit.exe "set"  recoveryenabled n^o
+%windir%\system32\bcdedit.exe "set"  recoveryenabled no
+%windir%\system32\bcdedit.exe "set" {current} "recoveryenabled" NO
+%windir%\system32\bcdedit.exe "set" {current} "recoveryenabled" n^o
+%windir%\system32\bcdedit.exe "set" {current} "recoveryenabled" no
+%windir%\system32\bcdedit.exe "set" {current} 'bootstatuspolicy' ignore^all^failures
+%windir%\system32\bcdedit.exe "set" {current} 'bootstatuspolicy' ignoreallfailures
+%windir%\system32\bcdedit.exe "set" {current} bootstatuspolicy ignore^all^failures
+%windir%\system32\bcdedit.exe "set" {current} bootstatuspolicy ignoreallfailures
+%windir%\system32\bcdedit.exe "set" {current} recoveryenabled NO
+%windir%\system32\bcdedit.exe "set" {current} recoveryenabled n^o
+%windir%\system32\bcdedit.exe "set" {current} recoveryenabled no
+%windir%\system32\bcdedit.exe "set" {default} "recoveryenabled" NO
+%windir%\system32\bcdedit.exe "set" {default} "recoveryenabled" n^o
+%windir%\system32\bcdedit.exe "set" {default} "recoveryenabled" no
+%windir%\system32\bcdedit.exe "set" {default} 'bootstatuspolicy' ignore^all^failures
+%windir%\system32\bcdedit.exe "set" {default} 'bootstatuspolicy' ignoreallfailures
+%windir%\system32\bcdedit.exe "set" {default} bootstatuspolicy ignore^all^failures
+%windir%\system32\bcdedit.exe "set" {default} bootstatuspolicy ignoreallfailures
+%windir%\system32\bcdedit.exe "set" {default} recoveryenabled NO
+%windir%\system32\bcdedit.exe "set" {default} recoveryenabled n^o
+%windir%\system32\bcdedit.exe "set" {default} recoveryenabled no
+%windir%\system32\bcdedit.exe 'set'  "recoveryenabled" NO
+%windir%\system32\bcdedit.exe 'set'  "recoveryenabled" n^o
+%windir%\system32\bcdedit.exe 'set'  "recoveryenabled" no
+%windir%\system32\bcdedit.exe 'set'  'bootstatuspolicy' ignore^all^failures
+%windir%\system32\bcdedit.exe 'set'  'bootstatuspolicy' ignoreallfailures
+%windir%\system32\bcdedit.exe 'set'  bootstatuspolicy ignore^all^failures
+%windir%\system32\bcdedit.exe 'set'  bootstatuspolicy ignoreallfailures
+%windir%\system32\bcdedit.exe 'set'  recoveryenabled NO
+%windir%\system32\bcdedit.exe 'set'  recoveryenabled n^o
+%windir%\system32\bcdedit.exe 'set'  recoveryenabled no
+%windir%\system32\bcdedit.exe 'set' {current} "recoveryenabled" NO
+%windir%\system32\bcdedit.exe 'set' {current} "recoveryenabled" n^o
+%windir%\system32\bcdedit.exe 'set' {current} "recoveryenabled" no
+%windir%\system32\bcdedit.exe 'set' {current} 'bootstatuspolicy' ignore^all^failures
+%windir%\system32\bcdedit.exe 'set' {current} 'bootstatuspolicy' ignoreallfailures
+%windir%\system32\bcdedit.exe 'set' {current} bootstatuspolicy ignore^all^failures
+%windir%\system32\bcdedit.exe 'set' {current} bootstatuspolicy ignoreallfailures
+%windir%\system32\bcdedit.exe 'set' {current} recoveryenabled NO
+%windir%\system32\bcdedit.exe 'set' {current} recoveryenabled n^o
+%windir%\system32\bcdedit.exe 'set' {current} recoveryenabled no
+%windir%\system32\bcdedit.exe 'set' {default} "recoveryenabled" NO
+%windir%\system32\bcdedit.exe 'set' {default} "recoveryenabled" n^o
+%windir%\system32\bcdedit.exe 'set' {default} "recoveryenabled" no
+%windir%\system32\bcdedit.exe 'set' {default} 'bootstatuspolicy' ignore^all^failures
+%windir%\system32\bcdedit.exe 'set' {default} 'bootstatuspolicy' ignoreallfailures
+%windir%\system32\bcdedit.exe 'set' {default} bootstatuspolicy ignore^all^failures
+%windir%\system32\bcdedit.exe 'set' {default} bootstatuspolicy ignoreallfailures
+%windir%\system32\bcdedit.exe 'set' {default} recoveryenabled NO
+%windir%\system32\bcdedit.exe 'set' {default} recoveryenabled n^o
+%windir%\system32\bcdedit.exe 'set' {default} recoveryenabled no
+%windir%\system32\bcdedit.exe s^et  "recoveryenabled" NO
+%windir%\system32\bcdedit.exe s^et  "recoveryenabled" n^o
+%windir%\system32\bcdedit.exe s^et  "recoveryenabled" no
+%windir%\system32\bcdedit.exe s^et  'bootstatuspolicy' ignore^all^failures
+%windir%\system32\bcdedit.exe s^et  'bootstatuspolicy' ignoreallfailures
+%windir%\system32\bcdedit.exe s^et  bootstatuspolicy ignore^all^failures
+%windir%\system32\bcdedit.exe s^et  bootstatuspolicy ignoreallfailures
+%windir%\system32\bcdedit.exe s^et  recoveryenabled NO
+%windir%\system32\bcdedit.exe s^et  recoveryenabled n^o
+%windir%\system32\bcdedit.exe s^et  recoveryenabled no
+%windir%\system32\bcdedit.exe s^et {current} "recoveryenabled" NO
+%windir%\system32\bcdedit.exe s^et {current} "recoveryenabled" n^o
+%windir%\system32\bcdedit.exe s^et {current} "recoveryenabled" no
+%windir%\system32\bcdedit.exe s^et {current} 'bootstatuspolicy' ignore^all^failures
+%windir%\system32\bcdedit.exe s^et {current} 'bootstatuspolicy' ignoreallfailures
+%windir%\system32\bcdedit.exe s^et {current} bootstatuspolicy ignore^all^failures
+%windir%\system32\bcdedit.exe s^et {current} bootstatuspolicy ignoreallfailures
+%windir%\system32\bcdedit.exe s^et {current} recoveryenabled NO
+%windir%\system32\bcdedit.exe s^et {current} recoveryenabled n^o
+%windir%\system32\bcdedit.exe s^et {current} recoveryenabled no
+%windir%\system32\bcdedit.exe s^et {default} "recoveryenabled" NO
+%windir%\system32\bcdedit.exe s^et {default} "recoveryenabled" n^o
+%windir%\system32\bcdedit.exe s^et {default} "recoveryenabled" no
+%windir%\system32\bcdedit.exe s^et {default} 'bootstatuspolicy' ignore^all^failures
+%windir%\system32\bcdedit.exe s^et {default} 'bootstatuspolicy' ignoreallfailures
+%windir%\system32\bcdedit.exe s^et {default} bootstatuspolicy ignore^all^failures
+%windir%\system32\bcdedit.exe s^et {default} bootstatuspolicy ignoreallfailures
+%windir%\system32\bcdedit.exe s^et {default} recoveryenabled NO
+%windir%\system32\bcdedit.exe s^et {default} recoveryenabled n^o
+%windir%\system32\bcdedit.exe s^et {default} recoveryenabled no
+%windir%\system32\bcdedit.exe set  "recoveryenabled" NO
+%windir%\system32\bcdedit.exe set  "recoveryenabled" n^o
+%windir%\system32\bcdedit.exe set  "recoveryenabled" no
+%windir%\system32\bcdedit.exe set  'bootstatuspolicy' ignore^all^failures
+%windir%\system32\bcdedit.exe set  'bootstatuspolicy' ignoreallfailures
+%windir%\system32\bcdedit.exe set  bootstatuspolicy ignore^all^failures
+%windir%\system32\bcdedit.exe set  bootstatuspolicy ignoreallfailures
+%windir%\system32\bcdedit.exe set  recoveryenabled NO
+%windir%\system32\bcdedit.exe set  recoveryenabled n^o
+%windir%\system32\bcdedit.exe set  recoveryenabled no
+%windir%\system32\bcdedit.exe set {current} "recoveryenabled" NO
+%windir%\system32\bcdedit.exe set {current} "recoveryenabled" n^o
+%windir%\system32\bcdedit.exe set {current} "recoveryenabled" no
+%windir%\system32\bcdedit.exe set {current} 'bootstatuspolicy' ignore^all^failures
+%windir%\system32\bcdedit.exe set {current} 'bootstatuspolicy' ignoreallfailures
+%windir%\system32\bcdedit.exe set {current} bootstatuspolicy ignore^all^failures
+%windir%\system32\bcdedit.exe set {current} bootstatuspolicy ignoreallfailures
+%windir%\system32\bcdedit.exe set {current} recoveryenabled NO
+%windir%\system32\bcdedit.exe set {current} recoveryenabled n^o
+%windir%\system32\bcdedit.exe set {current} recoveryenabled no
+%windir%\system32\bcdedit.exe set {default} "recoveryenabled" NO
+%windir%\system32\bcdedit.exe set {default} "recoveryenabled" n^o
+%windir%\system32\bcdedit.exe set {default} "recoveryenabled" no
+%windir%\system32\bcdedit.exe set {default} 'bootstatuspolicy' ignore^all^failures
+%windir%\system32\bcdedit.exe set {default} 'bootstatuspolicy' ignoreallfailures
+%windir%\system32\bcdedit.exe set {default} bootstatuspolicy ignore^all^failures
+%windir%\system32\bcdedit.exe set {default} bootstatuspolicy ignoreallfailures
+%windir%\system32\bcdedit.exe set {default} recoveryenabled NO
+%windir%\system32\bcdedit.exe set {default} recoveryenabled n^o
+%windir%\system32\bcdedit.exe set {default} recoveryenabled no
+C:\Windows\SysNative\bcdedit.exe "set"  "recoveryenabled" NO
+C:\Windows\SysNative\bcdedit.exe "set"  "recoveryenabled" n^o
+C:\Windows\SysNative\bcdedit.exe "set"  "recoveryenabled" no
+C:\Windows\SysNative\bcdedit.exe "set"  'bootstatuspolicy' ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe "set"  'bootstatuspolicy' ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe "set"  bootstatuspolicy ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe "set"  bootstatuspolicy ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe "set"  recoveryenabled NO
+C:\Windows\SysNative\bcdedit.exe "set"  recoveryenabled n^o
+C:\Windows\SysNative\bcdedit.exe "set"  recoveryenabled no
+C:\Windows\SysNative\bcdedit.exe "set" {current} "recoveryenabled" NO
+C:\Windows\SysNative\bcdedit.exe "set" {current} "recoveryenabled" n^o
+C:\Windows\SysNative\bcdedit.exe "set" {current} "recoveryenabled" no
+C:\Windows\SysNative\bcdedit.exe "set" {current} 'bootstatuspolicy' ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe "set" {current} 'bootstatuspolicy' ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe "set" {current} bootstatuspolicy ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe "set" {current} bootstatuspolicy ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe "set" {current} recoveryenabled NO
+C:\Windows\SysNative\bcdedit.exe "set" {current} recoveryenabled n^o
+C:\Windows\SysNative\bcdedit.exe "set" {current} recoveryenabled no
+C:\Windows\SysNative\bcdedit.exe "set" {default} "recoveryenabled" NO
+C:\Windows\SysNative\bcdedit.exe "set" {default} "recoveryenabled" n^o
+C:\Windows\SysNative\bcdedit.exe "set" {default} "recoveryenabled" no
+C:\Windows\SysNative\bcdedit.exe "set" {default} 'bootstatuspolicy' ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe "set" {default} 'bootstatuspolicy' ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe "set" {default} bootstatuspolicy ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe "set" {default} bootstatuspolicy ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe "set" {default} recoveryenabled NO
+C:\Windows\SysNative\bcdedit.exe "set" {default} recoveryenabled n^o
+C:\Windows\SysNative\bcdedit.exe "set" {default} recoveryenabled no
+C:\Windows\SysNative\bcdedit.exe 'set'  "recoveryenabled" NO
+C:\Windows\SysNative\bcdedit.exe 'set'  "recoveryenabled" n^o
+C:\Windows\SysNative\bcdedit.exe 'set'  "recoveryenabled" no
+C:\Windows\SysNative\bcdedit.exe 'set'  'bootstatuspolicy' ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe 'set'  'bootstatuspolicy' ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe 'set'  bootstatuspolicy ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe 'set'  bootstatuspolicy ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe 'set'  recoveryenabled NO
+C:\Windows\SysNative\bcdedit.exe 'set'  recoveryenabled n^o
+C:\Windows\SysNative\bcdedit.exe 'set'  recoveryenabled no
+C:\Windows\SysNative\bcdedit.exe 'set' {current} "recoveryenabled" NO
+C:\Windows\SysNative\bcdedit.exe 'set' {current} "recoveryenabled" n^o
+C:\Windows\SysNative\bcdedit.exe 'set' {current} "recoveryenabled" no
+C:\Windows\SysNative\bcdedit.exe 'set' {current} 'bootstatuspolicy' ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe 'set' {current} 'bootstatuspolicy' ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe 'set' {current} bootstatuspolicy ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe 'set' {current} bootstatuspolicy ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe 'set' {current} recoveryenabled NO
+C:\Windows\SysNative\bcdedit.exe 'set' {current} recoveryenabled n^o
+C:\Windows\SysNative\bcdedit.exe 'set' {current} recoveryenabled no
+C:\Windows\SysNative\bcdedit.exe 'set' {default} "recoveryenabled" NO
+C:\Windows\SysNative\bcdedit.exe 'set' {default} "recoveryenabled" n^o
+C:\Windows\SysNative\bcdedit.exe 'set' {default} "recoveryenabled" no
+C:\Windows\SysNative\bcdedit.exe 'set' {default} 'bootstatuspolicy' ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe 'set' {default} 'bootstatuspolicy' ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe 'set' {default} bootstatuspolicy ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe 'set' {default} bootstatuspolicy ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe 'set' {default} recoveryenabled NO
+C:\Windows\SysNative\bcdedit.exe 'set' {default} recoveryenabled n^o
+C:\Windows\SysNative\bcdedit.exe 'set' {default} recoveryenabled no
+C:\Windows\SysNative\bcdedit.exe s^et  "recoveryenabled" NO
+C:\Windows\SysNative\bcdedit.exe s^et  "recoveryenabled" n^o
+C:\Windows\SysNative\bcdedit.exe s^et  "recoveryenabled" no
+C:\Windows\SysNative\bcdedit.exe s^et  'bootstatuspolicy' ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe s^et  'bootstatuspolicy' ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe s^et  bootstatuspolicy ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe s^et  bootstatuspolicy ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe s^et  recoveryenabled NO
+C:\Windows\SysNative\bcdedit.exe s^et  recoveryenabled n^o
+C:\Windows\SysNative\bcdedit.exe s^et  recoveryenabled no
+C:\Windows\SysNative\bcdedit.exe s^et {current} "recoveryenabled" NO
+C:\Windows\SysNative\bcdedit.exe s^et {current} "recoveryenabled" n^o
+C:\Windows\SysNative\bcdedit.exe s^et {current} "recoveryenabled" no
+C:\Windows\SysNative\bcdedit.exe s^et {current} 'bootstatuspolicy' ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe s^et {current} 'bootstatuspolicy' ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe s^et {current} bootstatuspolicy ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe s^et {current} bootstatuspolicy ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe s^et {current} recoveryenabled NO
+C:\Windows\SysNative\bcdedit.exe s^et {current} recoveryenabled n^o
+C:\Windows\SysNative\bcdedit.exe s^et {current} recoveryenabled no
+C:\Windows\SysNative\bcdedit.exe s^et {default} "recoveryenabled" NO
+C:\Windows\SysNative\bcdedit.exe s^et {default} "recoveryenabled" n^o
+C:\Windows\SysNative\bcdedit.exe s^et {default} "recoveryenabled" no
+C:\Windows\SysNative\bcdedit.exe s^et {default} 'bootstatuspolicy' ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe s^et {default} 'bootstatuspolicy' ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe s^et {default} bootstatuspolicy ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe s^et {default} bootstatuspolicy ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe s^et {default} recoveryenabled NO
+C:\Windows\SysNative\bcdedit.exe s^et {default} recoveryenabled n^o
+C:\Windows\SysNative\bcdedit.exe s^et {default} recoveryenabled no
+C:\Windows\SysNative\bcdedit.exe set  "recoveryenabled" NO
+C:\Windows\SysNative\bcdedit.exe set  "recoveryenabled" n^o
+C:\Windows\SysNative\bcdedit.exe set  "recoveryenabled" no
+C:\Windows\SysNative\bcdedit.exe set  'bootstatuspolicy' ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe set  'bootstatuspolicy' ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe set  bootstatuspolicy ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe set  bootstatuspolicy ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe set  recoveryenabled NO
+C:\Windows\SysNative\bcdedit.exe set  recoveryenabled n^o
+C:\Windows\SysNative\bcdedit.exe set  recoveryenabled no
+C:\Windows\SysNative\bcdedit.exe set {current} "recoveryenabled" NO
+C:\Windows\SysNative\bcdedit.exe set {current} "recoveryenabled" n^o
+C:\Windows\SysNative\bcdedit.exe set {current} "recoveryenabled" no
+C:\Windows\SysNative\bcdedit.exe set {current} 'bootstatuspolicy' ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe set {current} 'bootstatuspolicy' ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe set {current} bootstatuspolicy ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe set {current} bootstatuspolicy ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe set {current} recoveryenabled NO
+C:\Windows\SysNative\bcdedit.exe set {current} recoveryenabled n^o
+C:\Windows\SysNative\bcdedit.exe set {current} recoveryenabled no
+C:\Windows\SysNative\bcdedit.exe set {default} "recoveryenabled" NO
+C:\Windows\SysNative\bcdedit.exe set {default} "recoveryenabled" n^o
+C:\Windows\SysNative\bcdedit.exe set {default} "recoveryenabled" no
+C:\Windows\SysNative\bcdedit.exe set {default} 'bootstatuspolicy' ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe set {default} 'bootstatuspolicy' ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe set {default} bootstatuspolicy ignore^all^failures
+C:\Windows\SysNative\bcdedit.exe set {default} bootstatuspolicy ignoreallfailures
+C:\Windows\SysNative\bcdedit.exe set {default} recoveryenabled NO
+C:\Windows\SysNative\bcdedit.exe set {default} recoveryenabled n^o
+C:\Windows\SysNative\bcdedit.exe set {default} recoveryenabled no
+bcdedit "set"  "recoveryenabled" NO
+bcdedit "set"  "recoveryenabled" n^o
+bcdedit "set"  "recoveryenabled" no
+bcdedit "set"  'bootstatuspolicy' ignore^all^failures
+bcdedit "set"  'bootstatuspolicy' ignoreallfailures
+bcdedit "set"  bootstatuspolicy ignore^all^failures
+bcdedit "set"  bootstatuspolicy ignoreallfailures
+bcdedit "set"  recoveryenabled NO
+bcdedit "set"  recoveryenabled n^o
+bcdedit "set"  recoveryenabled no
+bcdedit "set" {current} "recoveryenabled" NO
+bcdedit "set" {current} "recoveryenabled" n^o
+bcdedit "set" {current} "recoveryenabled" no
+bcdedit "set" {current} 'bootstatuspolicy' ignore^all^failures
+bcdedit "set" {current} 'bootstatuspolicy' ignoreallfailures
+bcdedit "set" {current} bootstatuspolicy ignore^all^failures
+bcdedit "set" {current} bootstatuspolicy ignoreallfailures
+bcdedit "set" {current} recoveryenabled NO
+bcdedit "set" {current} recoveryenabled n^o
+bcdedit "set" {current} recoveryenabled no
+bcdedit "set" {default} "recoveryenabled" NO
+bcdedit "set" {default} "recoveryenabled" n^o
+bcdedit "set" {default} "recoveryenabled" no
+bcdedit "set" {default} 'bootstatuspolicy' ignore^all^failures
+bcdedit "set" {default} 'bootstatuspolicy' ignoreallfailures
+bcdedit "set" {default} bootstatuspolicy ignore^all^failures
+bcdedit "set" {default} bootstatuspolicy ignoreallfailures
+bcdedit "set" {default} recoveryenabled NO
+bcdedit "set" {default} recoveryenabled n^o
+bcdedit "set" {default} recoveryenabled no
+bcdedit 'set'  "recoveryenabled" NO
+bcdedit 'set'  "recoveryenabled" n^o
+bcdedit 'set'  "recoveryenabled" no
+bcdedit 'set'  'bootstatuspolicy' ignore^all^failures
+bcdedit 'set'  'bootstatuspolicy' ignoreallfailures
+bcdedit 'set'  bootstatuspolicy ignore^all^failures
+bcdedit 'set'  bootstatuspolicy ignoreallfailures
+bcdedit 'set'  recoveryenabled NO
+bcdedit 'set'  recoveryenabled n^o
+bcdedit 'set'  recoveryenabled no
+bcdedit 'set' {current} "recoveryenabled" NO
+bcdedit 'set' {current} "recoveryenabled" n^o
+bcdedit 'set' {current} "recoveryenabled" no
+bcdedit 'set' {current} 'bootstatuspolicy' ignore^all^failures
+bcdedit 'set' {current} 'bootstatuspolicy' ignoreallfailures
+bcdedit 'set' {current} bootstatuspolicy ignore^all^failures
+bcdedit 'set' {current} bootstatuspolicy ignoreallfailures
+bcdedit 'set' {current} recoveryenabled NO
+bcdedit 'set' {current} recoveryenabled n^o
+bcdedit 'set' {current} recoveryenabled no
+bcdedit 'set' {default} "recoveryenabled" NO
+bcdedit 'set' {default} "recoveryenabled" n^o
+bcdedit 'set' {default} "recoveryenabled" no
+bcdedit 'set' {default} 'bootstatuspolicy' ignore^all^failures
+bcdedit 'set' {default} 'bootstatuspolicy' ignoreallfailures
+bcdedit 'set' {default} bootstatuspolicy ignore^all^failures
+bcdedit 'set' {default} bootstatuspolicy ignoreallfailures
+bcdedit 'set' {default} recoveryenabled NO
+bcdedit 'set' {default} recoveryenabled n^o
+bcdedit 'set' {default} recoveryenabled no
+bcdedit s^et  "recoveryenabled" NO
+bcdedit s^et  "recoveryenabled" n^o
+bcdedit s^et  "recoveryenabled" no
+bcdedit s^et  'bootstatuspolicy' ignore^all^failures
+bcdedit s^et  'bootstatuspolicy' ignoreallfailures
+bcdedit s^et  bootstatuspolicy ignore^all^failures
+bcdedit s^et  bootstatuspolicy ignoreallfailures
+bcdedit s^et  recoveryenabled NO
+bcdedit s^et  recoveryenabled n^o
+bcdedit s^et  recoveryenabled no
+bcdedit s^et {current} "recoveryenabled" NO
+bcdedit s^et {current} "recoveryenabled" n^o
+bcdedit s^et {current} "recoveryenabled" no
+bcdedit s^et {current} 'bootstatuspolicy' ignore^all^failures
+bcdedit s^et {current} 'bootstatuspolicy' ignoreallfailures
+bcdedit s^et {current} bootstatuspolicy ignore^all^failures
+bcdedit s^et {current} bootstatuspolicy ignoreallfailures
+bcdedit s^et {current} recoveryenabled NO
+bcdedit s^et {current} recoveryenabled n^o
+bcdedit s^et {current} recoveryenabled no
+bcdedit s^et {default} "recoveryenabled" NO
+bcdedit s^et {default} "recoveryenabled" n^o
+bcdedit s^et {default} "recoveryenabled" no
+bcdedit s^et {default} 'bootstatuspolicy' ignore^all^failures
+bcdedit s^et {default} 'bootstatuspolicy' ignoreallfailures
+bcdedit s^et {default} bootstatuspolicy ignore^all^failures
+bcdedit s^et {default} bootstatuspolicy ignoreallfailures
+bcdedit s^et {default} recoveryenabled NO
+bcdedit s^et {default} recoveryenabled n^o
+bcdedit s^et {default} recoveryenabled no
+bcdedit set  "recoveryenabled" NO
+bcdedit set  "recoveryenabled" n^o
+bcdedit set  "recoveryenabled" no
+bcdedit set  'bootstatuspolicy' ignore^all^failures
+bcdedit set  'bootstatuspolicy' ignoreallfailures
+bcdedit set  bootstatuspolicy ignore^all^failures
+bcdedit set  bootstatuspolicy ignoreallfailures
+bcdedit set  recoveryenabled NO
+bcdedit set  recoveryenabled n^o
+bcdedit set  recoveryenabled no
+bcdedit set {current} "recoveryenabled" NO
+bcdedit set {current} "recoveryenabled" n^o
+bcdedit set {current} "recoveryenabled" no
+bcdedit set {current} 'bootstatuspolicy' ignore^all^failures
+bcdedit set {current} 'bootstatuspolicy' ignoreallfailures
+bcdedit set {current} bootstatuspolicy ignore^all^failures
+bcdedit set {current} bootstatuspolicy ignoreallfailures
+bcdedit set {current} recoveryenabled NO
+bcdedit set {current} recoveryenabled n^o
+bcdedit set {current} recoveryenabled no
+bcdedit set {default} "recoveryenabled" NO
+bcdedit set {default} "recoveryenabled" n^o
+bcdedit set {default} "recoveryenabled" no
+bcdedit set {default} 'bootstatuspolicy' ignore^all^failures
+bcdedit set {default} 'bootstatuspolicy' ignoreallfailures
+bcdedit set {default} bootstatuspolicy ignore^all^failures
+bcdedit set {default} bootstatuspolicy ignoreallfailures
+bcdedit set {default} recoveryenabled NO
+bcdedit set {default} recoveryenabled n^o
+bcdedit set {default} recoveryenabled no
+bcdedit.exe "set"  "recoveryenabled" NO
+bcdedit.exe "set"  "recoveryenabled" n^o
+bcdedit.exe "set"  "recoveryenabled" no
+bcdedit.exe "set"  'bootstatuspolicy' ignore^all^failures
+bcdedit.exe "set"  'bootstatuspolicy' ignoreallfailures
+bcdedit.exe "set"  bootstatuspolicy ignore^all^failures
+bcdedit.exe "set"  bootstatuspolicy ignoreallfailures
+bcdedit.exe "set"  recoveryenabled NO
+bcdedit.exe "set"  recoveryenabled n^o
+bcdedit.exe "set"  recoveryenabled no
+bcdedit.exe "set" {current} "recoveryenabled" NO
+bcdedit.exe "set" {current} "recoveryenabled" n^o
+bcdedit.exe "set" {current} "recoveryenabled" no
+bcdedit.exe "set" {current} 'bootstatuspolicy' ignore^all^failures
+bcdedit.exe "set" {current} 'bootstatuspolicy' ignoreallfailures
+bcdedit.exe "set" {current} bootstatuspolicy ignore^all^failures
+bcdedit.exe "set" {current} bootstatuspolicy ignoreallfailures
+bcdedit.exe "set" {current} recoveryenabled NO
+bcdedit.exe "set" {current} recoveryenabled n^o
+bcdedit.exe "set" {current} recoveryenabled no
+bcdedit.exe "set" {default} "recoveryenabled" NO
+bcdedit.exe "set" {default} "recoveryenabled" n^o
+bcdedit.exe "set" {default} "recoveryenabled" no
+bcdedit.exe "set" {default} 'bootstatuspolicy' ignore^all^failures
+bcdedit.exe "set" {default} 'bootstatuspolicy' ignoreallfailures
+bcdedit.exe "set" {default} bootstatuspolicy ignore^all^failures
+bcdedit.exe "set" {default} bootstatuspolicy ignoreallfailures
+bcdedit.exe "set" {default} recoveryenabled NO
+bcdedit.exe "set" {default} recoveryenabled n^o
+bcdedit.exe "set" {default} recoveryenabled no
+bcdedit.exe 'set'  "recoveryenabled" NO
+bcdedit.exe 'set'  "recoveryenabled" n^o
+bcdedit.exe 'set'  "recoveryenabled" no
+bcdedit.exe 'set'  'bootstatuspolicy' ignore^all^failures
+bcdedit.exe 'set'  'bootstatuspolicy' ignoreallfailures
+bcdedit.exe 'set'  bootstatuspolicy ignore^all^failures
+bcdedit.exe 'set'  bootstatuspolicy ignoreallfailures
+bcdedit.exe 'set'  recoveryenabled NO
+bcdedit.exe 'set'  recoveryenabled n^o
+bcdedit.exe 'set'  recoveryenabled no
+bcdedit.exe 'set' {current} "recoveryenabled" NO
+bcdedit.exe 'set' {current} "recoveryenabled" n^o
+bcdedit.exe 'set' {current} "recoveryenabled" no
+bcdedit.exe 'set' {current} 'bootstatuspolicy' ignore^all^failures
+bcdedit.exe 'set' {current} 'bootstatuspolicy' ignoreallfailures
+bcdedit.exe 'set' {current} bootstatuspolicy ignore^all^failures
+bcdedit.exe 'set' {current} bootstatuspolicy ignoreallfailures
+bcdedit.exe 'set' {current} recoveryenabled NO
+bcdedit.exe 'set' {current} recoveryenabled n^o
+bcdedit.exe 'set' {current} recoveryenabled no
+bcdedit.exe 'set' {default} "recoveryenabled" NO
+bcdedit.exe 'set' {default} "recoveryenabled" n^o
+bcdedit.exe 'set' {default} "recoveryenabled" no
+bcdedit.exe 'set' {default} 'bootstatuspolicy' ignore^all^failures
+bcdedit.exe 'set' {default} 'bootstatuspolicy' ignoreallfailures
+bcdedit.exe 'set' {default} bootstatuspolicy ignore^all^failures
+bcdedit.exe 'set' {default} bootstatuspolicy ignoreallfailures
+bcdedit.exe 'set' {default} recoveryenabled NO
+bcdedit.exe 'set' {default} recoveryenabled n^o
+bcdedit.exe 'set' {default} recoveryenabled no
+bcdedit.exe s^et  "recoveryenabled" NO
+bcdedit.exe s^et  "recoveryenabled" n^o
+bcdedit.exe s^et  "recoveryenabled" no
+bcdedit.exe s^et  'bootstatuspolicy' ignore^all^failures
+bcdedit.exe s^et  'bootstatuspolicy' ignoreallfailures
+bcdedit.exe s^et  bootstatuspolicy ignore^all^failures
+bcdedit.exe s^et  bootstatuspolicy ignoreallfailures
+bcdedit.exe s^et  recoveryenabled NO
+bcdedit.exe s^et  recoveryenabled n^o
+bcdedit.exe s^et  recoveryenabled no
+bcdedit.exe s^et {current} "recoveryenabled" NO
+bcdedit.exe s^et {current} "recoveryenabled" n^o
+bcdedit.exe s^et {current} "recoveryenabled" no
+bcdedit.exe s^et {current} 'bootstatuspolicy' ignore^all^failures
+bcdedit.exe s^et {current} 'bootstatuspolicy' ignoreallfailures
+bcdedit.exe s^et {current} bootstatuspolicy ignore^all^failures
+bcdedit.exe s^et {current} bootstatuspolicy ignoreallfailures
+bcdedit.exe s^et {current} recoveryenabled NO
+bcdedit.exe s^et {current} recoveryenabled n^o
+bcdedit.exe s^et {current} recoveryenabled no
+bcdedit.exe s^et {default} "recoveryenabled" NO
+bcdedit.exe s^et {default} "recoveryenabled" n^o
+bcdedit.exe s^et {default} "recoveryenabled" no
+bcdedit.exe s^et {default} 'bootstatuspolicy' ignore^all^failures
+bcdedit.exe s^et {default} 'bootstatuspolicy' ignoreallfailures
+bcdedit.exe s^et {default} bootstatuspolicy ignore^all^failures
+bcdedit.exe s^et {default} bootstatuspolicy ignoreallfailures
+bcdedit.exe s^et {default} recoveryenabled NO
+bcdedit.exe s^et {default} recoveryenabled n^o
+bcdedit.exe s^et {default} recoveryenabled no
+bcdedit.exe set  "recoveryenabled" NO
+bcdedit.exe set  "recoveryenabled" n^o
+bcdedit.exe set  "recoveryenabled" no
+bcdedit.exe set  'bootstatuspolicy' ignore^all^failures
+bcdedit.exe set  'bootstatuspolicy' ignoreallfailures
+bcdedit.exe set  bootstatuspolicy ignore^all^failures
+bcdedit.exe set  bootstatuspolicy ignoreallfailures
+bcdedit.exe set  recoveryenabled NO
+bcdedit.exe set  recoveryenabled n^o
+bcdedit.exe set  recoveryenabled no
+bcdedit.exe set {current} "recoveryenabled" NO
+bcdedit.exe set {current} "recoveryenabled" n^o
+bcdedit.exe set {current} "recoveryenabled" no
+bcdedit.exe set {current} 'bootstatuspolicy' ignore^all^failures
+bcdedit.exe set {current} 'bootstatuspolicy' ignoreallfailures
+bcdedit.exe set {current} bootstatuspolicy ignore^all^failures
+bcdedit.exe set {current} bootstatuspolicy ignoreallfailures
+bcdedit.exe set {current} recoveryenabled NO
+bcdedit.exe set {current} recoveryenabled n^o
+bcdedit.exe set {current} recoveryenabled no
+bcdedit.exe set {default} "recoveryenabled" NO
+bcdedit.exe set {default} "recoveryenabled" n^o
+bcdedit.exe set {default} "recoveryenabled" no
+bcdedit.exe set {default} 'bootstatuspolicy' ignore^all^failures
+bcdedit.exe set {default} 'bootstatuspolicy' ignoreallfailures
+bcdedit.exe set {default} bootstatuspolicy ignore^all^failures
+bcdedit.exe set {default} bootstatuspolicy ignoreallfailures
+bcdedit.exe set {default} recoveryenabled NO
+bcdedit.exe set {default} recoveryenabled n^o
+bcdedit.exe set {default} recoveryenabled no

@@ -1,17 +1,18 @@
 # generate_cmds.py
 
 from fuzzingbook.GrammarFuzzer import GrammarFuzzer
-from grammar import SCHTASKS_CMDLINE_GRAMMAR
+#from grammar import SCHTASKS_CMDLINE_GRAMMAR
+from grammar_rule.win_bcdedit_boot_conf_tamper import win_bcdedit_boot_conf_tamper_grammar as CMDLINE_GRAMMAR
 
 # --- CẤU HÌNH ---
 ITERATIONS = 5000  # Số lượng lệnh muốn tạo
-OUTPUT_FILE = "commands_to_test.txt"
+OUTPUT_FILE = "outputs/generated_commands.txt"  # Tên tệp kết quả
 # -----------------
 
 class CommandLineGenerator:
     def __init__(self):
         # Khởi tạo fuzzer với ngữ pháp đã định nghĩa
-        self.fuzzer = GrammarFuzzer(SCHTASKS_CMDLINE_GRAMMAR)
+        self.fuzzer = GrammarFuzzer(CMDLINE_GRAMMAR)
     
     def generate(self) -> str:
         # Tạo ra một dòng lệnh
@@ -39,7 +40,7 @@ def main():
     print(f"\n--- Hoàn tất! ---")
     print(f"Đã tạo ra {len(unique_commands)} dòng lệnh độc nhất.")
     print(f"Kết quả đã được lưu vào tệp: {OUTPUT_FILE}")
-    print("\nBây giờ bạn có thể lấy tệp này và đẩy vào hệ thống kiểm tra của mình.")
+
 
 if __name__ == "__main__":
     main()

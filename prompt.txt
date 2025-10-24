@@ -1,0 +1,42 @@
+Bạn là một chuyên gia an ninh mạng chuyên về fuzzing và lẩn tránh các quy tắc SIEM.
+
+**NHIỆM VỤ:**
+Phân tích quy tắc Sigma dưới đây và tạo ra một file grammar Python cho công cụ fuzzing "fuzzingbook".
+Grammar này phải có khả năng tạo ra các biến thể dòng lệnh (`cmd`) nhằm mục đích lẩn tránh quy tắc đã cho.
+
+**YÊU CẦU:**
+1.  Bắt đầu grammar với ký hiệu `<start>`.
+2.  Tích hợp 5 kỹ thuật evasion sau đây vào grammar một cách hợp lý:
+    - **Insertion:** Chèn các ký tự như `""`, `''`, `^`.
+    - **Substitution:** Dùng các alias hoặc lệnh đồng nghĩa (ví dụ: `/cr` thay cho `/create`).
+    - **Omission:** Lược bỏ các phần không cần thiết.
+    - **Reordering:** Hoán đổi thứ tự các tham số không phụ thuộc vị trí.
+    - **Recoding:** Sử dụng các cách mã hóa lại (ví dụ: biến môi trường `%windir%`).
+3.  Đầu ra phải là một dictionary Python hợp lệ, không có gì khác.
+
+**VÍ DỤ MẪU:**
+Nếu tôi cung cấp rule sau:
+---
+title: Simple SchedTask Creation
+detection:
+    selection:
+        Image|endswith: '\schtasks.exe'
+        CommandLine|contains|all:
+            - '/create'
+            - '/tn'
+---
+Thì đầu ra của bạn phải là:
+---
+{
+    "<start>": ["<executable> <params_reordered>"],
+    "<executable>": ["schtasks.exe", "%windir%\\system32\\schtasks.exe"],
+    "<params_reordered>": ["<create_verb> <tn_param>", "<tn_param> <create_verb>"],
+    "<create_verb>": ["/create", "/cr", "'/create'"],
+    "<tn_param>": ["/tn \"MyTask\"", "/TN \"MyTask\""]
+}
+---
+
+**BÂY GIỜ, HÃY XỬ LÝ QUY TẮC SAU ĐÂY:**
+---
+[Dán toàn bộ nội dung file rule .yml của bạn vào đây]
+---
