@@ -3,10 +3,18 @@
 from fuzzingbook.GrammarFuzzer import GrammarFuzzer
 #from grammar import SCHTASKS_CMDLINE_GRAMMAR
 #from grammar_rule.win_bcdedit_boot_conf_tamper import win_bcdedit_boot_conf_tamper_grammar as CMDLINE_GRAMMAR
-from grammar_rule.win_cmd_assoc_execution import win_cmd_assoc_execution_grammar as CMDLINE_GRAMMAR
+#from grammar_rule.win_cmd_assoc_execution import win_cmd_assoc_execution_grammar as CMDLINE_GRAMMAR
+#from grammar_rule.win_cmdkey_recon import win_cmdkey_recon_grammar as CMDLINE_GRAMMAR
+#from grammar_rule.win_cmd_path_traversal import win_cmd_path_traversal_grammar as CMDLINE_GRAMMAR
+#from grammar_rule.win_control_panel_item import win_control_panel_item_grammar as CMDLINE_GRAMMAR
+#from grammar_rule.win_esentutl_sensitive_file_copy import win_esentutl_sensitive_file_copy_grammar as CMDLINE_GRAMMAR
+#from grammar_rule.win_rar_compress_data import win_rar_compress_data_grammar as CMDLINE_GRAMMAR
+from grammar_rule.win_hktl_koadic import win_hktl_koadic_grammar as CMDLINE_GRAMMAR
+#from grammar_rule.win_susp_etw_trace_evasion import win_susp_etw_trace_evasion_grammar as CMDLINE_GRAMMAR
+from grammar_rule.win_registry_install_reg_debugger_backdoor import win_registry_install_reg_debugger_backdoor_grammar as CMDLINE_GRAMMAR
 # --- CẤU HÌNH ---
 ITERATIONS = 5000  # Số lượng lệnh muốn tạo
-OUTPUT_FILE = "outputs/win_cmd_assoc_execution.txt"  # Tên tệp kết quả
+OUTPUT_FILE = "outputs/win_registry_install_reg_debugger_backdoor.txt"  # Tên tệp kết quả
 # -----------------
 
 class CommandLineGenerator:

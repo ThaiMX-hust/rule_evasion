@@ -1,0 +1,360 @@
+%COMSPEC% /C dir "/..\.."
+%COMSPEC% /C dir /..\..
+%COMSPEC% /C dir /..^/..
+%COMSPEC% /C dir \..\..
+%COMSPEC% /C dir \..\../
+%COMSPEC% /C echo test "/..\.."
+%COMSPEC% /C echo test /..\..
+%COMSPEC% /C echo test /..^/..
+%COMSPEC% /C echo test \..\..
+%COMSPEC% /C echo test \..\../
+%COMSPEC% /C type C:\Users\Public"/..\.."\windows\win.ini
+%COMSPEC% /C type C:\Users\Public/..\..\windows\win.ini
+%COMSPEC% /C type C:\Users\Public/..^/..\windows\win.ini
+%COMSPEC% /C type C:\Users\Public\..\../\windows\win.ini
+%COMSPEC% /C type C:\Users\Public\..\..\windows\win.ini
+%COMSPEC% /K dir "/..\.."
+%COMSPEC% /K dir /..\..
+%COMSPEC% /K dir /..^/..
+%COMSPEC% /K dir \..\..
+%COMSPEC% /K dir \..\../
+%COMSPEC% /K echo test "/..\.."
+%COMSPEC% /K echo test /..\..
+%COMSPEC% /K echo test /..^/..
+%COMSPEC% /K echo test \..\..
+%COMSPEC% /K echo test \..\../
+%COMSPEC% /K type C:\Users\Public"/..\.."\windows\win.ini
+%COMSPEC% /K type C:\Users\Public/..\..\windows\win.ini
+%COMSPEC% /K type C:\Users\Public/..^/..\windows\win.ini
+%COMSPEC% /K type C:\Users\Public\..\../\windows\win.ini
+%COMSPEC% /K type C:\Users\Public\..\..\windows\win.ini
+%COMSPEC% /R dir "/..\.."
+%COMSPEC% /R dir /..\..
+%COMSPEC% /R dir /..^/..
+%COMSPEC% /R dir \..\..
+%COMSPEC% /R dir \..\../
+%COMSPEC% /R echo test "/..\.."
+%COMSPEC% /R echo test /..\..
+%COMSPEC% /R echo test /..^/..
+%COMSPEC% /R echo test \..\..
+%COMSPEC% /R echo test \..\../
+%COMSPEC% /R type C:\Users\Public"/..\.."\windows\win.ini
+%COMSPEC% /R type C:\Users\Public/..\..\windows\win.ini
+%COMSPEC% /R type C:\Users\Public/..^/..\windows\win.ini
+%COMSPEC% /R type C:\Users\Public\..\../\windows\win.ini
+%COMSPEC% /R type C:\Users\Public\..\..\windows\win.ini
+%COMSPEC% /c dir "/..\.."
+%COMSPEC% /c dir /..\..
+%COMSPEC% /c dir /..^/..
+%COMSPEC% /c dir \..\..
+%COMSPEC% /c dir \..\../
+%COMSPEC% /c echo test "/..\.."
+%COMSPEC% /c echo test /..\..
+%COMSPEC% /c echo test /..^/..
+%COMSPEC% /c echo test \..\..
+%COMSPEC% /c echo test \..\../
+%COMSPEC% /c type C:\Users\Public"/..\.."\windows\win.ini
+%COMSPEC% /c type C:\Users\Public/..\..\windows\win.ini
+%COMSPEC% /c type C:\Users\Public/..^/..\windows\win.ini
+%COMSPEC% /c type C:\Users\Public\..\../\windows\win.ini
+%COMSPEC% /c type C:\Users\Public\..\..\windows\win.ini
+%COMSPEC% /k dir "/..\.."
+%COMSPEC% /k dir /..\..
+%COMSPEC% /k dir /..^/..
+%COMSPEC% /k dir \..\..
+%COMSPEC% /k dir \..\../
+%COMSPEC% /k echo test "/..\.."
+%COMSPEC% /k echo test /..\..
+%COMSPEC% /k echo test /..^/..
+%COMSPEC% /k echo test \..\..
+%COMSPEC% /k echo test \..\../
+%COMSPEC% /k type C:\Users\Public"/..\.."\windows\win.ini
+%COMSPEC% /k type C:\Users\Public/..\..\windows\win.ini
+%COMSPEC% /k type C:\Users\Public/..^/..\windows\win.ini
+%COMSPEC% /k type C:\Users\Public\..\../\windows\win.ini
+%COMSPEC% /k type C:\Users\Public\..\..\windows\win.ini
+%COMSPEC% /r dir "/..\.."
+%COMSPEC% /r dir /..\..
+%COMSPEC% /r dir /..^/..
+%COMSPEC% /r dir \..\..
+%COMSPEC% /r dir \..\../
+%COMSPEC% /r echo test "/..\.."
+%COMSPEC% /r echo test /..\..
+%COMSPEC% /r echo test /..^/..
+%COMSPEC% /r echo test \..\..
+%COMSPEC% /r echo test \..\../
+%COMSPEC% /r type C:\Users\Public"/..\.."\windows\win.ini
+%COMSPEC% /r type C:\Users\Public/..\..\windows\win.ini
+%COMSPEC% /r type C:\Users\Public/..^/..\windows\win.ini
+%COMSPEC% /r type C:\Users\Public\..\../\windows\win.ini
+%COMSPEC% /r type C:\Users\Public\..\..\windows\win.ini
+%windir%\system32\cmd.exe /C dir "/..\.."
+%windir%\system32\cmd.exe /C dir /..\..
+%windir%\system32\cmd.exe /C dir /..^/..
+%windir%\system32\cmd.exe /C dir \..\..
+%windir%\system32\cmd.exe /C dir \..\../
+%windir%\system32\cmd.exe /C echo test "/..\.."
+%windir%\system32\cmd.exe /C echo test /..\..
+%windir%\system32\cmd.exe /C echo test /..^/..
+%windir%\system32\cmd.exe /C echo test \..\..
+%windir%\system32\cmd.exe /C echo test \..\../
+%windir%\system32\cmd.exe /C type C:\Users\Public"/..\.."\windows\win.ini
+%windir%\system32\cmd.exe /C type C:\Users\Public/..\..\windows\win.ini
+%windir%\system32\cmd.exe /C type C:\Users\Public/..^/..\windows\win.ini
+%windir%\system32\cmd.exe /C type C:\Users\Public\..\../\windows\win.ini
+%windir%\system32\cmd.exe /C type C:\Users\Public\..\..\windows\win.ini
+%windir%\system32\cmd.exe /K dir "/..\.."
+%windir%\system32\cmd.exe /K dir /..\..
+%windir%\system32\cmd.exe /K dir /..^/..
+%windir%\system32\cmd.exe /K dir \..\..
+%windir%\system32\cmd.exe /K dir \..\../
+%windir%\system32\cmd.exe /K echo test "/..\.."
+%windir%\system32\cmd.exe /K echo test /..\..
+%windir%\system32\cmd.exe /K echo test /..^/..
+%windir%\system32\cmd.exe /K echo test \..\..
+%windir%\system32\cmd.exe /K echo test \..\../
+%windir%\system32\cmd.exe /K type C:\Users\Public"/..\.."\windows\win.ini
+%windir%\system32\cmd.exe /K type C:\Users\Public/..\..\windows\win.ini
+%windir%\system32\cmd.exe /K type C:\Users\Public/..^/..\windows\win.ini
+%windir%\system32\cmd.exe /K type C:\Users\Public\..\../\windows\win.ini
+%windir%\system32\cmd.exe /K type C:\Users\Public\..\..\windows\win.ini
+%windir%\system32\cmd.exe /R dir "/..\.."
+%windir%\system32\cmd.exe /R dir /..\..
+%windir%\system32\cmd.exe /R dir /..^/..
+%windir%\system32\cmd.exe /R dir \..\..
+%windir%\system32\cmd.exe /R dir \..\../
+%windir%\system32\cmd.exe /R echo test "/..\.."
+%windir%\system32\cmd.exe /R echo test /..\..
+%windir%\system32\cmd.exe /R echo test /..^/..
+%windir%\system32\cmd.exe /R echo test \..\..
+%windir%\system32\cmd.exe /R echo test \..\../
+%windir%\system32\cmd.exe /R type C:\Users\Public"/..\.."\windows\win.ini
+%windir%\system32\cmd.exe /R type C:\Users\Public/..\..\windows\win.ini
+%windir%\system32\cmd.exe /R type C:\Users\Public/..^/..\windows\win.ini
+%windir%\system32\cmd.exe /R type C:\Users\Public\..\../\windows\win.ini
+%windir%\system32\cmd.exe /R type C:\Users\Public\..\..\windows\win.ini
+%windir%\system32\cmd.exe /c dir "/..\.."
+%windir%\system32\cmd.exe /c dir /..\..
+%windir%\system32\cmd.exe /c dir /..^/..
+%windir%\system32\cmd.exe /c dir \..\..
+%windir%\system32\cmd.exe /c dir \..\../
+%windir%\system32\cmd.exe /c echo test "/..\.."
+%windir%\system32\cmd.exe /c echo test /..\..
+%windir%\system32\cmd.exe /c echo test /..^/..
+%windir%\system32\cmd.exe /c echo test \..\..
+%windir%\system32\cmd.exe /c echo test \..\../
+%windir%\system32\cmd.exe /c type C:\Users\Public"/..\.."\windows\win.ini
+%windir%\system32\cmd.exe /c type C:\Users\Public/..\..\windows\win.ini
+%windir%\system32\cmd.exe /c type C:\Users\Public/..^/..\windows\win.ini
+%windir%\system32\cmd.exe /c type C:\Users\Public\..\../\windows\win.ini
+%windir%\system32\cmd.exe /c type C:\Users\Public\..\..\windows\win.ini
+%windir%\system32\cmd.exe /k dir "/..\.."
+%windir%\system32\cmd.exe /k dir /..\..
+%windir%\system32\cmd.exe /k dir /..^/..
+%windir%\system32\cmd.exe /k dir \..\..
+%windir%\system32\cmd.exe /k dir \..\../
+%windir%\system32\cmd.exe /k echo test "/..\.."
+%windir%\system32\cmd.exe /k echo test /..\..
+%windir%\system32\cmd.exe /k echo test /..^/..
+%windir%\system32\cmd.exe /k echo test \..\..
+%windir%\system32\cmd.exe /k echo test \..\../
+%windir%\system32\cmd.exe /k type C:\Users\Public"/..\.."\windows\win.ini
+%windir%\system32\cmd.exe /k type C:\Users\Public/..\..\windows\win.ini
+%windir%\system32\cmd.exe /k type C:\Users\Public/..^/..\windows\win.ini
+%windir%\system32\cmd.exe /k type C:\Users\Public\..\../\windows\win.ini
+%windir%\system32\cmd.exe /k type C:\Users\Public\..\..\windows\win.ini
+%windir%\system32\cmd.exe /r dir "/..\.."
+%windir%\system32\cmd.exe /r dir /..\..
+%windir%\system32\cmd.exe /r dir /..^/..
+%windir%\system32\cmd.exe /r dir \..\..
+%windir%\system32\cmd.exe /r dir \..\../
+%windir%\system32\cmd.exe /r echo test "/..\.."
+%windir%\system32\cmd.exe /r echo test /..\..
+%windir%\system32\cmd.exe /r echo test /..^/..
+%windir%\system32\cmd.exe /r echo test \..\..
+%windir%\system32\cmd.exe /r echo test \..\../
+%windir%\system32\cmd.exe /r type C:\Users\Public"/..\.."\windows\win.ini
+%windir%\system32\cmd.exe /r type C:\Users\Public/..\..\windows\win.ini
+%windir%\system32\cmd.exe /r type C:\Users\Public/..^/..\windows\win.ini
+%windir%\system32\cmd.exe /r type C:\Users\Public\..\../\windows\win.ini
+%windir%\system32\cmd.exe /r type C:\Users\Public\..\..\windows\win.ini
+CMD.EXE /C dir "/..\.."
+CMD.EXE /C dir /..\..
+CMD.EXE /C dir /..^/..
+CMD.EXE /C dir \..\..
+CMD.EXE /C dir \..\../
+CMD.EXE /C echo test "/..\.."
+CMD.EXE /C echo test /..\..
+CMD.EXE /C echo test /..^/..
+CMD.EXE /C echo test \..\..
+CMD.EXE /C echo test \..\../
+CMD.EXE /C type C:\Users\Public"/..\.."\windows\win.ini
+CMD.EXE /C type C:\Users\Public/..\..\windows\win.ini
+CMD.EXE /C type C:\Users\Public/..^/..\windows\win.ini
+CMD.EXE /C type C:\Users\Public\..\../\windows\win.ini
+CMD.EXE /C type C:\Users\Public\..\..\windows\win.ini
+CMD.EXE /K dir "/..\.."
+CMD.EXE /K dir /..\..
+CMD.EXE /K dir /..^/..
+CMD.EXE /K dir \..\..
+CMD.EXE /K dir \..\../
+CMD.EXE /K echo test "/..\.."
+CMD.EXE /K echo test /..\..
+CMD.EXE /K echo test /..^/..
+CMD.EXE /K echo test \..\..
+CMD.EXE /K echo test \..\../
+CMD.EXE /K type C:\Users\Public"/..\.."\windows\win.ini
+CMD.EXE /K type C:\Users\Public/..\..\windows\win.ini
+CMD.EXE /K type C:\Users\Public/..^/..\windows\win.ini
+CMD.EXE /K type C:\Users\Public\..\../\windows\win.ini
+CMD.EXE /K type C:\Users\Public\..\..\windows\win.ini
+CMD.EXE /R dir "/..\.."
+CMD.EXE /R dir /..\..
+CMD.EXE /R dir /..^/..
+CMD.EXE /R dir \..\..
+CMD.EXE /R dir \..\../
+CMD.EXE /R echo test "/..\.."
+CMD.EXE /R echo test /..\..
+CMD.EXE /R echo test /..^/..
+CMD.EXE /R echo test \..\..
+CMD.EXE /R echo test \..\../
+CMD.EXE /R type C:\Users\Public"/..\.."\windows\win.ini
+CMD.EXE /R type C:\Users\Public/..\..\windows\win.ini
+CMD.EXE /R type C:\Users\Public/..^/..\windows\win.ini
+CMD.EXE /R type C:\Users\Public\..\../\windows\win.ini
+CMD.EXE /R type C:\Users\Public\..\..\windows\win.ini
+CMD.EXE /c dir "/..\.."
+CMD.EXE /c dir /..\..
+CMD.EXE /c dir /..^/..
+CMD.EXE /c dir \..\..
+CMD.EXE /c dir \..\../
+CMD.EXE /c echo test "/..\.."
+CMD.EXE /c echo test /..\..
+CMD.EXE /c echo test /..^/..
+CMD.EXE /c echo test \..\..
+CMD.EXE /c echo test \..\../
+CMD.EXE /c type C:\Users\Public"/..\.."\windows\win.ini
+CMD.EXE /c type C:\Users\Public/..\..\windows\win.ini
+CMD.EXE /c type C:\Users\Public/..^/..\windows\win.ini
+CMD.EXE /c type C:\Users\Public\..\../\windows\win.ini
+CMD.EXE /c type C:\Users\Public\..\..\windows\win.ini
+CMD.EXE /k dir "/..\.."
+CMD.EXE /k dir /..\..
+CMD.EXE /k dir /..^/..
+CMD.EXE /k dir \..\..
+CMD.EXE /k dir \..\../
+CMD.EXE /k echo test "/..\.."
+CMD.EXE /k echo test /..\..
+CMD.EXE /k echo test /..^/..
+CMD.EXE /k echo test \..\..
+CMD.EXE /k echo test \..\../
+CMD.EXE /k type C:\Users\Public"/..\.."\windows\win.ini
+CMD.EXE /k type C:\Users\Public/..\..\windows\win.ini
+CMD.EXE /k type C:\Users\Public/..^/..\windows\win.ini
+CMD.EXE /k type C:\Users\Public\..\../\windows\win.ini
+CMD.EXE /k type C:\Users\Public\..\..\windows\win.ini
+CMD.EXE /r dir "/..\.."
+CMD.EXE /r dir /..\..
+CMD.EXE /r dir /..^/..
+CMD.EXE /r dir \..\..
+CMD.EXE /r dir \..\../
+CMD.EXE /r echo test "/..\.."
+CMD.EXE /r echo test /..\..
+CMD.EXE /r echo test /..^/..
+CMD.EXE /r echo test \..\..
+CMD.EXE /r echo test \..\../
+CMD.EXE /r type C:\Users\Public"/..\.."\windows\win.ini
+CMD.EXE /r type C:\Users\Public/..\..\windows\win.ini
+CMD.EXE /r type C:\Users\Public/..^/..\windows\win.ini
+CMD.EXE /r type C:\Users\Public\..\../\windows\win.ini
+CMD.EXE /r type C:\Users\Public\..\..\windows\win.ini
+cmd.exe /C dir "/..\.."
+cmd.exe /C dir /..\..
+cmd.exe /C dir /..^/..
+cmd.exe /C dir \..\..
+cmd.exe /C dir \..\../
+cmd.exe /C echo test "/..\.."
+cmd.exe /C echo test /..\..
+cmd.exe /C echo test /..^/..
+cmd.exe /C echo test \..\..
+cmd.exe /C echo test \..\../
+cmd.exe /C type C:\Users\Public"/..\.."\windows\win.ini
+cmd.exe /C type C:\Users\Public/..\..\windows\win.ini
+cmd.exe /C type C:\Users\Public/..^/..\windows\win.ini
+cmd.exe /C type C:\Users\Public\..\../\windows\win.ini
+cmd.exe /C type C:\Users\Public\..\..\windows\win.ini
+cmd.exe /K dir "/..\.."
+cmd.exe /K dir /..\..
+cmd.exe /K dir /..^/..
+cmd.exe /K dir \..\..
+cmd.exe /K dir \..\../
+cmd.exe /K echo test "/..\.."
+cmd.exe /K echo test /..\..
+cmd.exe /K echo test /..^/..
+cmd.exe /K echo test \..\..
+cmd.exe /K echo test \..\../
+cmd.exe /K type C:\Users\Public"/..\.."\windows\win.ini
+cmd.exe /K type C:\Users\Public/..\..\windows\win.ini
+cmd.exe /K type C:\Users\Public/..^/..\windows\win.ini
+cmd.exe /K type C:\Users\Public\..\../\windows\win.ini
+cmd.exe /K type C:\Users\Public\..\..\windows\win.ini
+cmd.exe /R dir "/..\.."
+cmd.exe /R dir /..\..
+cmd.exe /R dir /..^/..
+cmd.exe /R dir \..\..
+cmd.exe /R dir \..\../
+cmd.exe /R echo test "/..\.."
+cmd.exe /R echo test /..\..
+cmd.exe /R echo test /..^/..
+cmd.exe /R echo test \..\..
+cmd.exe /R echo test \..\../
+cmd.exe /R type C:\Users\Public"/..\.."\windows\win.ini
+cmd.exe /R type C:\Users\Public/..\..\windows\win.ini
+cmd.exe /R type C:\Users\Public/..^/..\windows\win.ini
+cmd.exe /R type C:\Users\Public\..\../\windows\win.ini
+cmd.exe /R type C:\Users\Public\..\..\windows\win.ini
+cmd.exe /c dir "/..\.."
+cmd.exe /c dir /..\..
+cmd.exe /c dir /..^/..
+cmd.exe /c dir \..\..
+cmd.exe /c dir \..\../
+cmd.exe /c echo test "/..\.."
+cmd.exe /c echo test /..\..
+cmd.exe /c echo test /..^/..
+cmd.exe /c echo test \..\..
+cmd.exe /c echo test \..\../
+cmd.exe /c type C:\Users\Public"/..\.."\windows\win.ini
+cmd.exe /c type C:\Users\Public/..\..\windows\win.ini
+cmd.exe /c type C:\Users\Public/..^/..\windows\win.ini
+cmd.exe /c type C:\Users\Public\..\../\windows\win.ini
+cmd.exe /c type C:\Users\Public\..\..\windows\win.ini
+cmd.exe /k dir "/..\.."
+cmd.exe /k dir /..\..
+cmd.exe /k dir /..^/..
+cmd.exe /k dir \..\..
+cmd.exe /k dir \..\../
+cmd.exe /k echo test "/..\.."
+cmd.exe /k echo test /..\..
+cmd.exe /k echo test /..^/..
+cmd.exe /k echo test \..\..
+cmd.exe /k echo test \..\../
+cmd.exe /k type C:\Users\Public"/..\.."\windows\win.ini
+cmd.exe /k type C:\Users\Public/..\..\windows\win.ini
+cmd.exe /k type C:\Users\Public/..^/..\windows\win.ini
+cmd.exe /k type C:\Users\Public\..\../\windows\win.ini
+cmd.exe /k type C:\Users\Public\..\..\windows\win.ini
+cmd.exe /r dir "/..\.."
+cmd.exe /r dir /..\..
+cmd.exe /r dir /..^/..
+cmd.exe /r dir \..\..
+cmd.exe /r dir \..\../
+cmd.exe /r echo test "/..\.."
+cmd.exe /r echo test /..\..
+cmd.exe /r echo test /..^/..
+cmd.exe /r echo test \..\..
+cmd.exe /r echo test \..\../
+cmd.exe /r type C:\Users\Public"/..\.."\windows\win.ini
+cmd.exe /r type C:\Users\Public/..\..\windows\win.ini
+cmd.exe /r type C:\Users\Public/..^/..\windows\win.ini
+cmd.exe /r type C:\Users\Public\..\../\windows\win.ini
+cmd.exe /r type C:\Users\Public\..\..\windows\win.ini

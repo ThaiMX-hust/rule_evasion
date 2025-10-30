@@ -12,6 +12,7 @@ Grammar này phải có khả năng tạo ra các biến thể dòng lệnh (`cm
     - **Omission:** Lược bỏ các phần không cần thiết.
     - **Reordering:** Hoán đổi thứ tự các tham số không phụ thuộc vị trí.
     - **Recoding:** Sử dụng các cách mã hóa lại (ví dụ: biến môi trường `%windir%`).
+    - Va 1 ky thuat evasion khac 5 ky thuat tren
 3.  Đầu ra phải là một dictionary Python hợp lệ, không có gì khác.
 
 **VÍ DỤ MẪU:**

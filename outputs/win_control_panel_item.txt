@@ -1,0 +1,228 @@
+%SystemRoot%\System32\control.exe "%TEMP%\payload.cpl"
+%SystemRoot%\System32\control.exe C:\Perflogs\evil.cpl^
+%SystemRoot%\System32\control.exe C:\Temp\payload.cpl
+%SystemRoot%\System32\control.exe C:\Users\Public\my.cpl ''
+%windir%\system32\reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /V "My Payload" /t REG_SZ /d "%PUBLIC%\evil.cpl"
+%windir%\system32\reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /V "My Payload" /t REG_SZ /d C:\Users\Public\evil.cpl
+%windir%\system32\reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d "%PUBLIC%\evil.cpl" /V "My Payload" /t REG_SZ
+%windir%\system32\reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d "%PUBLIC%\evil.cpl" /v MyPayload /t REG_SZ
+%windir%\system32\reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d C:\Users\Public\evil.cpl /V "My Payload" /t REG_SZ
+%windir%\system32\reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d C:\Users\Public\evil.cpl /v MyPayload /t REG_SZ
+%windir%\system32\reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d "%PUBLIC%\evil.cpl" /V "My Payload" /f
+%windir%\system32\reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d "%PUBLIC%\evil.cpl" /v MyPayload /f
+%windir%\system32\reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d C:\Users\Public\evil.cpl /V "My Payload" /f
+%windir%\system32\reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d C:\Users\Public\evil.cpl /v MyPayload /f
+%windir%\system32\reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /v MyPayload /t REG_SZ /d "%PUBLIC%\evil.cpl"
+%windir%\system32\reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /v MyPayload /t REG_SZ /d C:\Users\Public\evil.cpl
+%windir%\system32\reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /V "My Payload" /t REG_SZ /d "%PUBLIC%\evil.cpl"
+%windir%\system32\reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /V "My Payload" /t REG_SZ /d C:\Users\Public\evil.cpl
+%windir%\system32\reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d "%PUBLIC%\evil.cpl" /V "My Payload" /t REG_SZ
+%windir%\system32\reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d "%PUBLIC%\evil.cpl" /v MyPayload /t REG_SZ
+%windir%\system32\reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d C:\Users\Public\evil.cpl /V "My Payload" /t REG_SZ
+%windir%\system32\reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d C:\Users\Public\evil.cpl /v MyPayload /t REG_SZ
+%windir%\system32\reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d "%PUBLIC%\evil.cpl" /V "My Payload" /f
+%windir%\system32\reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d "%PUBLIC%\evil.cpl" /v MyPayload /f
+%windir%\system32\reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d C:\Users\Public\evil.cpl /V "My Payload" /f
+%windir%\system32\reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d C:\Users\Public\evil.cpl /v MyPayload /f
+%windir%\system32\reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /v MyPayload /t REG_SZ /d "%PUBLIC%\evil.cpl"
+%windir%\system32\reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /v MyPayload /t REG_SZ /d C:\Users\Public\evil.cpl
+%windir%\system32\reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /V "My Payload" /t REG_SZ /d "%PUBLIC%\evil.cpl"
+%windir%\system32\reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /V "My Payload" /t REG_SZ /d C:\Users\Public\evil.cpl
+%windir%\system32\reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d "%PUBLIC%\evil.cpl" /V "My Payload" /t REG_SZ
+%windir%\system32\reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d "%PUBLIC%\evil.cpl" /v MyPayload /t REG_SZ
+%windir%\system32\reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d C:\Users\Public\evil.cpl /V "My Payload" /t REG_SZ
+%windir%\system32\reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d C:\Users\Public\evil.cpl /v MyPayload /t REG_SZ
+%windir%\system32\reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d "%PUBLIC%\evil.cpl" /V "My Payload" /f
+%windir%\system32\reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d "%PUBLIC%\evil.cpl" /v MyPayload /f
+%windir%\system32\reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d C:\Users\Public\evil.cpl /V "My Payload" /f
+%windir%\system32\reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d C:\Users\Public\evil.cpl /v MyPayload /f
+%windir%\system32\reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /v MyPayload /t REG_SZ /d "%PUBLIC%\evil.cpl"
+%windir%\system32\reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /v MyPayload /t REG_SZ /d C:\Users\Public\evil.cpl
+%windir%\system32\reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /V "My Payload" /t REG_SZ /d "%PUBLIC%\evil.cpl"
+%windir%\system32\reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /V "My Payload" /t REG_SZ /d C:\Users\Public\evil.cpl
+%windir%\system32\reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d "%PUBLIC%\evil.cpl" /V "My Payload" /t REG_SZ
+%windir%\system32\reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d "%PUBLIC%\evil.cpl" /v MyPayload /t REG_SZ
+%windir%\system32\reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d C:\Users\Public\evil.cpl /V "My Payload" /t REG_SZ
+%windir%\system32\reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d C:\Users\Public\evil.cpl /v MyPayload /t REG_SZ
+%windir%\system32\reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d "%PUBLIC%\evil.cpl" /V "My Payload" /f
+%windir%\system32\reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d "%PUBLIC%\evil.cpl" /v MyPayload /f
+%windir%\system32\reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d C:\Users\Public\evil.cpl /V "My Payload" /f
+%windir%\system32\reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d C:\Users\Public\evil.cpl /v MyPayload /f
+%windir%\system32\reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /v MyPayload /t REG_SZ /d "%PUBLIC%\evil.cpl"
+%windir%\system32\reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /v MyPayload /t REG_SZ /d C:\Users\Public\evil.cpl
+%windir%\system32\reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /V "My Payload" /t REG_SZ /d "%PUBLIC%\evil.cpl"
+%windir%\system32\reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /V "My Payload" /t REG_SZ /d C:\Users\Public\evil.cpl
+%windir%\system32\reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d "%PUBLIC%\evil.cpl" /V "My Payload" /t REG_SZ
+%windir%\system32\reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d "%PUBLIC%\evil.cpl" /v MyPayload /t REG_SZ
+%windir%\system32\reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d C:\Users\Public\evil.cpl /V "My Payload" /t REG_SZ
+%windir%\system32\reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d C:\Users\Public\evil.cpl /v MyPayload /t REG_SZ
+%windir%\system32\reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d "%PUBLIC%\evil.cpl" /V "My Payload" /f
+%windir%\system32\reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d "%PUBLIC%\evil.cpl" /v MyPayload /f
+%windir%\system32\reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d C:\Users\Public\evil.cpl /V "My Payload" /f
+%windir%\system32\reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d C:\Users\Public\evil.cpl /v MyPayload /f
+%windir%\system32\reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /v MyPayload /t REG_SZ /d "%PUBLIC%\evil.cpl"
+%windir%\system32\reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /v MyPayload /t REG_SZ /d C:\Users\Public\evil.cpl
+%windir%\system32\reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /V "My Payload" /t REG_SZ /d "%PUBLIC%\evil.cpl"
+%windir%\system32\reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /V "My Payload" /t REG_SZ /d C:\Users\Public\evil.cpl
+%windir%\system32\reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d "%PUBLIC%\evil.cpl" /V "My Payload" /t REG_SZ
+%windir%\system32\reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d "%PUBLIC%\evil.cpl" /v MyPayload /t REG_SZ
+%windir%\system32\reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d C:\Users\Public\evil.cpl /V "My Payload" /t REG_SZ
+%windir%\system32\reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d C:\Users\Public\evil.cpl /v MyPayload /t REG_SZ
+%windir%\system32\reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d "%PUBLIC%\evil.cpl" /V "My Payload" /f
+%windir%\system32\reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d "%PUBLIC%\evil.cpl" /v MyPayload /f
+%windir%\system32\reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d C:\Users\Public\evil.cpl /V "My Payload" /f
+%windir%\system32\reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d C:\Users\Public\evil.cpl /v MyPayload /f
+%windir%\system32\reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /v MyPayload /t REG_SZ /d "%PUBLIC%\evil.cpl"
+%windir%\system32\reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /v MyPayload /t REG_SZ /d C:\Users\Public\evil.cpl
+CONTROL "%TEMP%\payload.cpl"
+CONTROL C:\Perflogs\evil.cpl^
+CONTROL C:\Temp\payload.cpl
+CONTROL C:\Users\Public\my.cpl ''
+REG "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /V "My Payload" /t REG_SZ /d "%PUBLIC%\evil.cpl"
+REG "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /V "My Payload" /t REG_SZ /d C:\Users\Public\evil.cpl
+REG "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d "%PUBLIC%\evil.cpl" /V "My Payload" /t REG_SZ
+REG "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d "%PUBLIC%\evil.cpl" /v MyPayload /t REG_SZ
+REG "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d C:\Users\Public\evil.cpl /V "My Payload" /t REG_SZ
+REG "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d C:\Users\Public\evil.cpl /v MyPayload /t REG_SZ
+REG "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d "%PUBLIC%\evil.cpl" /V "My Payload" /f
+REG "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d "%PUBLIC%\evil.cpl" /v MyPayload /f
+REG "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d C:\Users\Public\evil.cpl /V "My Payload" /f
+REG "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d C:\Users\Public\evil.cpl /v MyPayload /f
+REG "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /v MyPayload /t REG_SZ /d "%PUBLIC%\evil.cpl"
+REG "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /v MyPayload /t REG_SZ /d C:\Users\Public\evil.cpl
+REG "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /V "My Payload" /t REG_SZ /d "%PUBLIC%\evil.cpl"
+REG "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /V "My Payload" /t REG_SZ /d C:\Users\Public\evil.cpl
+REG "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d "%PUBLIC%\evil.cpl" /V "My Payload" /t REG_SZ
+REG "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d "%PUBLIC%\evil.cpl" /v MyPayload /t REG_SZ
+REG "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d C:\Users\Public\evil.cpl /V "My Payload" /t REG_SZ
+REG "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d C:\Users\Public\evil.cpl /v MyPayload /t REG_SZ
+REG "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d "%PUBLIC%\evil.cpl" /V "My Payload" /f
+REG "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d "%PUBLIC%\evil.cpl" /v MyPayload /f
+REG "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d C:\Users\Public\evil.cpl /V "My Payload" /f
+REG "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d C:\Users\Public\evil.cpl /v MyPayload /f
+REG "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /v MyPayload /t REG_SZ /d "%PUBLIC%\evil.cpl"
+REG "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /v MyPayload /t REG_SZ /d C:\Users\Public\evil.cpl
+REG a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /V "My Payload" /t REG_SZ /d "%PUBLIC%\evil.cpl"
+REG a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /V "My Payload" /t REG_SZ /d C:\Users\Public\evil.cpl
+REG a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d "%PUBLIC%\evil.cpl" /V "My Payload" /t REG_SZ
+REG a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d "%PUBLIC%\evil.cpl" /v MyPayload /t REG_SZ
+REG a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d C:\Users\Public\evil.cpl /V "My Payload" /t REG_SZ
+REG a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d C:\Users\Public\evil.cpl /v MyPayload /t REG_SZ
+REG a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d "%PUBLIC%\evil.cpl" /V "My Payload" /f
+REG a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d "%PUBLIC%\evil.cpl" /v MyPayload /f
+REG a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d C:\Users\Public\evil.cpl /V "My Payload" /f
+REG a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d C:\Users\Public\evil.cpl /v MyPayload /f
+REG a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /v MyPayload /t REG_SZ /d "%PUBLIC%\evil.cpl"
+REG a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /v MyPayload /t REG_SZ /d C:\Users\Public\evil.cpl
+REG a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /V "My Payload" /t REG_SZ /d "%PUBLIC%\evil.cpl"
+REG a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /V "My Payload" /t REG_SZ /d C:\Users\Public\evil.cpl
+REG a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d "%PUBLIC%\evil.cpl" /V "My Payload" /t REG_SZ
+REG a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d "%PUBLIC%\evil.cpl" /v MyPayload /t REG_SZ
+REG a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d C:\Users\Public\evil.cpl /V "My Payload" /t REG_SZ
+REG a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d C:\Users\Public\evil.cpl /v MyPayload /t REG_SZ
+REG a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d "%PUBLIC%\evil.cpl" /V "My Payload" /f
+REG a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d "%PUBLIC%\evil.cpl" /v MyPayload /f
+REG a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d C:\Users\Public\evil.cpl /V "My Payload" /f
+REG a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d C:\Users\Public\evil.cpl /v MyPayload /f
+REG a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /v MyPayload /t REG_SZ /d "%PUBLIC%\evil.cpl"
+REG a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /v MyPayload /t REG_SZ /d C:\Users\Public\evil.cpl
+REG add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /V "My Payload" /t REG_SZ /d "%PUBLIC%\evil.cpl"
+REG add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /V "My Payload" /t REG_SZ /d C:\Users\Public\evil.cpl
+REG add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d "%PUBLIC%\evil.cpl" /V "My Payload" /t REG_SZ
+REG add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d "%PUBLIC%\evil.cpl" /v MyPayload /t REG_SZ
+REG add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d C:\Users\Public\evil.cpl /V "My Payload" /t REG_SZ
+REG add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d C:\Users\Public\evil.cpl /v MyPayload /t REG_SZ
+REG add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d "%PUBLIC%\evil.cpl" /V "My Payload" /f
+REG add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d "%PUBLIC%\evil.cpl" /v MyPayload /f
+REG add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d C:\Users\Public\evil.cpl /V "My Payload" /f
+REG add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d C:\Users\Public\evil.cpl /v MyPayload /f
+REG add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /v MyPayload /t REG_SZ /d "%PUBLIC%\evil.cpl"
+REG add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /v MyPayload /t REG_SZ /d C:\Users\Public\evil.cpl
+REG add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /V "My Payload" /t REG_SZ /d "%PUBLIC%\evil.cpl"
+REG add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /V "My Payload" /t REG_SZ /d C:\Users\Public\evil.cpl
+REG add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d "%PUBLIC%\evil.cpl" /V "My Payload" /t REG_SZ
+REG add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d "%PUBLIC%\evil.cpl" /v MyPayload /t REG_SZ
+REG add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d C:\Users\Public\evil.cpl /V "My Payload" /t REG_SZ
+REG add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d C:\Users\Public\evil.cpl /v MyPayload /t REG_SZ
+REG add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d "%PUBLIC%\evil.cpl" /V "My Payload" /f
+REG add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d "%PUBLIC%\evil.cpl" /v MyPayload /f
+REG add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d C:\Users\Public\evil.cpl /V "My Payload" /f
+REG add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d C:\Users\Public\evil.cpl /v MyPayload /f
+REG add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /v MyPayload /t REG_SZ /d "%PUBLIC%\evil.cpl"
+REG add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /v MyPayload /t REG_SZ /d C:\Users\Public\evil.cpl
+control.exe "%TEMP%\payload.cpl"
+control.exe C:\Perflogs\evil.cpl^
+control.exe C:\Temp\payload.cpl
+control.exe C:\Users\Public\my.cpl ''
+reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /V "My Payload" /t REG_SZ /d "%PUBLIC%\evil.cpl"
+reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /V "My Payload" /t REG_SZ /d C:\Users\Public\evil.cpl
+reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d "%PUBLIC%\evil.cpl" /V "My Payload" /t REG_SZ
+reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d "%PUBLIC%\evil.cpl" /v MyPayload /t REG_SZ
+reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d C:\Users\Public\evil.cpl /V "My Payload" /t REG_SZ
+reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d C:\Users\Public\evil.cpl /v MyPayload /t REG_SZ
+reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d "%PUBLIC%\evil.cpl" /V "My Payload" /f
+reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d "%PUBLIC%\evil.cpl" /v MyPayload /f
+reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d C:\Users\Public\evil.cpl /V "My Payload" /f
+reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d C:\Users\Public\evil.cpl /v MyPayload /f
+reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /v MyPayload /t REG_SZ /d "%PUBLIC%\evil.cpl"
+reg.exe "add" "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /v MyPayload /t REG_SZ /d C:\Users\Public\evil.cpl
+reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /V "My Payload" /t REG_SZ /d "%PUBLIC%\evil.cpl"
+reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /V "My Payload" /t REG_SZ /d C:\Users\Public\evil.cpl
+reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d "%PUBLIC%\evil.cpl" /V "My Payload" /t REG_SZ
+reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d "%PUBLIC%\evil.cpl" /v MyPayload /t REG_SZ
+reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d C:\Users\Public\evil.cpl /V "My Payload" /t REG_SZ
+reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d C:\Users\Public\evil.cpl /v MyPayload /t REG_SZ
+reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d "%PUBLIC%\evil.cpl" /V "My Payload" /f
+reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d "%PUBLIC%\evil.cpl" /v MyPayload /f
+reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d C:\Users\Public\evil.cpl /V "My Payload" /f
+reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d C:\Users\Public\evil.cpl /v MyPayload /f
+reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /v MyPayload /t REG_SZ /d "%PUBLIC%\evil.cpl"
+reg.exe "add" 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /v MyPayload /t REG_SZ /d C:\Users\Public\evil.cpl
+reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /V "My Payload" /t REG_SZ /d "%PUBLIC%\evil.cpl"
+reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /V "My Payload" /t REG_SZ /d C:\Users\Public\evil.cpl
+reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d "%PUBLIC%\evil.cpl" /V "My Payload" /t REG_SZ
+reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d "%PUBLIC%\evil.cpl" /v MyPayload /t REG_SZ
+reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d C:\Users\Public\evil.cpl /V "My Payload" /t REG_SZ
+reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d C:\Users\Public\evil.cpl /v MyPayload /t REG_SZ
+reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d "%PUBLIC%\evil.cpl" /V "My Payload" /f
+reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d "%PUBLIC%\evil.cpl" /v MyPayload /f
+reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d C:\Users\Public\evil.cpl /V "My Payload" /f
+reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d C:\Users\Public\evil.cpl /v MyPayload /f
+reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /v MyPayload /t REG_SZ /d "%PUBLIC%\evil.cpl"
+reg.exe a^dd "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /v MyPayload /t REG_SZ /d C:\Users\Public\evil.cpl
+reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /V "My Payload" /t REG_SZ /d "%PUBLIC%\evil.cpl"
+reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /V "My Payload" /t REG_SZ /d C:\Users\Public\evil.cpl
+reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d "%PUBLIC%\evil.cpl" /V "My Payload" /t REG_SZ
+reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d "%PUBLIC%\evil.cpl" /v MyPayload /t REG_SZ
+reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d C:\Users\Public\evil.cpl /V "My Payload" /t REG_SZ
+reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d C:\Users\Public\evil.cpl /v MyPayload /t REG_SZ
+reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d "%PUBLIC%\evil.cpl" /V "My Payload" /f
+reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d "%PUBLIC%\evil.cpl" /v MyPayload /f
+reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d C:\Users\Public\evil.cpl /V "My Payload" /f
+reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d C:\Users\Public\evil.cpl /v MyPayload /f
+reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /v MyPayload /t REG_SZ /d "%PUBLIC%\evil.cpl"
+reg.exe a^dd 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /v MyPayload /t REG_SZ /d C:\Users\Public\evil.cpl
+reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /V "My Payload" /t REG_SZ /d "%PUBLIC%\evil.cpl"
+reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /V "My Payload" /t REG_SZ /d C:\Users\Public\evil.cpl
+reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d "%PUBLIC%\evil.cpl" /V "My Payload" /t REG_SZ
+reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d "%PUBLIC%\evil.cpl" /v MyPayload /t REG_SZ
+reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d C:\Users\Public\evil.cpl /V "My Payload" /t REG_SZ
+reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /d C:\Users\Public\evil.cpl /v MyPayload /t REG_SZ
+reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d "%PUBLIC%\evil.cpl" /V "My Payload" /f
+reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d "%PUBLIC%\evil.cpl" /v MyPayload /f
+reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d C:\Users\Public\evil.cpl /V "My Payload" /f
+reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /t REG_SZ /d C:\Users\Public\evil.cpl /v MyPayload /f
+reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /v MyPayload /t REG_SZ /d "%PUBLIC%\evil.cpl"
+reg.exe add "HKCU\Software\Microsoft\Windows\CurrentVersion\Control Panel\CPLs" /v MyPayload /t REG_SZ /d C:\Users\Public\evil.cpl
+reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /V "My Payload" /t REG_SZ /d "%PUBLIC%\evil.cpl"
+reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /V "My Payload" /t REG_SZ /d C:\Users\Public\evil.cpl
+reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d "%PUBLIC%\evil.cpl" /V "My Payload" /t REG_SZ
+reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d "%PUBLIC%\evil.cpl" /v MyPayload /t REG_SZ
+reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d C:\Users\Public\evil.cpl /V "My Payload" /t REG_SZ
+reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /d C:\Users\Public\evil.cpl /v MyPayload /t REG_SZ
+reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d "%PUBLIC%\evil.cpl" /V "My Payload" /f
+reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d "%PUBLIC%\evil.cpl" /v MyPayload /f
+reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d C:\Users\Public\evil.cpl /V "My Payload" /f
+reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /t REG_SZ /d C:\Users\Public\evil.cpl /v MyPayload /f
+reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /v MyPayload /t REG_SZ /d "%PUBLIC%\evil.cpl"
+reg.exe add 'HKLM\Software\Microsoft\Windows\CurrentVersion\control panel\cpls' /v MyPayload /t REG_SZ /d C:\Users\Public\evil.cpl

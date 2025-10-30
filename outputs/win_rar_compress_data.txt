@@ -1,0 +1,719 @@
+"%ProgramFiles%\WinRAR\Rar.exe" "a"  "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" "a"  "%TEMP%\archive.zip" @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" "a"  "%TEMP%\archive.zip" C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" "a"  backup.rar "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" "a"  backup.rar @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" "a"  backup.rar C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" "a" "%TEMP%\archive.zip"  "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" "a" "%TEMP%\archive.zip"  @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" "a" "%TEMP%\archive.zip"  C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" "a" "%TEMP%\archive.zip" -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" "a" "%TEMP%\archive.zip" -hp -pS3cr3t @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" "a" "%TEMP%\archive.zip" -hp -pS3cr3t C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" "a" "%TEMP%\archive.zip" -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" "a" "%TEMP%\archive.zip" -pS3cr3t @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" "a" "%TEMP%\archive.zip" -pS3cr3t C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" "a" "%TEMP%\archive.zip" -r "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" "a" "%TEMP%\archive.zip" -r @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" "a" "%TEMP%\archive.zip" -r C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" "a" "%TEMP%\archive.zip" -s "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" "a" "%TEMP%\archive.zip" -s @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" "a" "%TEMP%\archive.zip" -s C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -hp -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -hp -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -hp -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -hp -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -hp -pS3cr3t backup.rar @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -hp -pS3cr3t backup.rar C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -pS3cr3t backup.rar @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -pS3cr3t backup.rar C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -r "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -r "%TEMP%\archive.zip" @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -r "%TEMP%\archive.zip" C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -r backup.rar "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -r backup.rar @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -r backup.rar C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -s "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -s "%TEMP%\archive.zip" @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -s "%TEMP%\archive.zip" C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -s backup.rar "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -s backup.rar @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" "a" -s backup.rar C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" "a" backup.rar  "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" "a" backup.rar  @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" "a" backup.rar  C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" "a" backup.rar -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" "a" backup.rar -hp -pS3cr3t @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" "a" backup.rar -hp -pS3cr3t C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" "a" backup.rar -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" "a" backup.rar -pS3cr3t @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" "a" backup.rar -pS3cr3t C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" "a" backup.rar -r "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" "a" backup.rar -r @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" "a" backup.rar -r C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" "a" backup.rar -s "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" "a" backup.rar -s @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" "a" backup.rar -s C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" 'a'  "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" 'a'  "%TEMP%\archive.zip" @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" 'a'  "%TEMP%\archive.zip" C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" 'a'  backup.rar "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" 'a'  backup.rar @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" 'a'  backup.rar C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' "%TEMP%\archive.zip"  "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' "%TEMP%\archive.zip"  @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' "%TEMP%\archive.zip"  C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' "%TEMP%\archive.zip" -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' "%TEMP%\archive.zip" -hp -pS3cr3t @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' "%TEMP%\archive.zip" -hp -pS3cr3t C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' "%TEMP%\archive.zip" -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' "%TEMP%\archive.zip" -pS3cr3t @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' "%TEMP%\archive.zip" -pS3cr3t C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' "%TEMP%\archive.zip" -r "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' "%TEMP%\archive.zip" -r @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' "%TEMP%\archive.zip" -r C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' "%TEMP%\archive.zip" -s "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' "%TEMP%\archive.zip" -s @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' "%TEMP%\archive.zip" -s C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -hp -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -hp -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -hp -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -hp -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -hp -pS3cr3t backup.rar @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -hp -pS3cr3t backup.rar C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -pS3cr3t backup.rar @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -pS3cr3t backup.rar C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -r "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -r "%TEMP%\archive.zip" @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -r "%TEMP%\archive.zip" C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -r backup.rar "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -r backup.rar @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -r backup.rar C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -s "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -s "%TEMP%\archive.zip" @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -s "%TEMP%\archive.zip" C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -s backup.rar "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -s backup.rar @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' -s backup.rar C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' backup.rar  "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' backup.rar  @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' backup.rar  C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' backup.rar -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' backup.rar -hp -pS3cr3t @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' backup.rar -hp -pS3cr3t C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' backup.rar -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' backup.rar -pS3cr3t @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' backup.rar -pS3cr3t C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' backup.rar -r "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' backup.rar -r @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' backup.rar -r C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' backup.rar -s "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' backup.rar -s @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" 'a' backup.rar -s C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" A  "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" A  "%TEMP%\archive.zip" @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" A  "%TEMP%\archive.zip" C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" A  backup.rar "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" A  backup.rar @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" A  backup.rar C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" A "%TEMP%\archive.zip"  "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" A "%TEMP%\archive.zip"  @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" A "%TEMP%\archive.zip"  C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" A "%TEMP%\archive.zip" -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" A "%TEMP%\archive.zip" -hp -pS3cr3t @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" A "%TEMP%\archive.zip" -hp -pS3cr3t C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" A "%TEMP%\archive.zip" -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" A "%TEMP%\archive.zip" -pS3cr3t @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" A "%TEMP%\archive.zip" -pS3cr3t C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" A "%TEMP%\archive.zip" -r "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" A "%TEMP%\archive.zip" -r @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" A "%TEMP%\archive.zip" -r C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" A "%TEMP%\archive.zip" -s "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" A "%TEMP%\archive.zip" -s @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" A "%TEMP%\archive.zip" -s C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" A -hp -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" A -hp -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" A -hp -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" A -hp -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" A -hp -pS3cr3t backup.rar @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" A -hp -pS3cr3t backup.rar C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" A -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" A -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" A -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" A -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" A -pS3cr3t backup.rar @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" A -pS3cr3t backup.rar C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" A -r "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" A -r "%TEMP%\archive.zip" @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" A -r "%TEMP%\archive.zip" C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" A -r backup.rar "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" A -r backup.rar @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" A -r backup.rar C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" A -s "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" A -s "%TEMP%\archive.zip" @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" A -s "%TEMP%\archive.zip" C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" A -s backup.rar "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" A -s backup.rar @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" A -s backup.rar C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" A backup.rar  "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" A backup.rar  @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" A backup.rar  C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" A backup.rar -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" A backup.rar -hp -pS3cr3t @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" A backup.rar -hp -pS3cr3t C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" A backup.rar -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" A backup.rar -pS3cr3t @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" A backup.rar -pS3cr3t C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" A backup.rar -r "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" A backup.rar -r @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" A backup.rar -r C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" A backup.rar -s "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" A backup.rar -s @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" A backup.rar -s C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" a  "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" a  "%TEMP%\archive.zip" @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" a  "%TEMP%\archive.zip" C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" a  backup.rar "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" a  backup.rar @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" a  backup.rar C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" a "%TEMP%\archive.zip"  "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" a "%TEMP%\archive.zip"  @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" a "%TEMP%\archive.zip"  C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" a "%TEMP%\archive.zip" -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" a "%TEMP%\archive.zip" -hp -pS3cr3t @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" a "%TEMP%\archive.zip" -hp -pS3cr3t C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" a "%TEMP%\archive.zip" -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" a "%TEMP%\archive.zip" -pS3cr3t @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" a "%TEMP%\archive.zip" -pS3cr3t C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" a "%TEMP%\archive.zip" -r "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" a "%TEMP%\archive.zip" -r @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" a "%TEMP%\archive.zip" -r C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" a "%TEMP%\archive.zip" -s "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" a "%TEMP%\archive.zip" -s @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" a "%TEMP%\archive.zip" -s C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" a -hp -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" a -hp -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" a -hp -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" a -hp -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" a -hp -pS3cr3t backup.rar @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" a -hp -pS3cr3t backup.rar C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" a -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" a -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" a -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" a -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" a -pS3cr3t backup.rar @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" a -pS3cr3t backup.rar C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" a -r "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" a -r "%TEMP%\archive.zip" @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" a -r "%TEMP%\archive.zip" C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" a -r backup.rar "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" a -r backup.rar @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" a -r backup.rar C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" a -s "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" a -s "%TEMP%\archive.zip" @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" a -s "%TEMP%\archive.zip" C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" a -s backup.rar "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" a -s backup.rar @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" a -s backup.rar C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" a backup.rar  "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" a backup.rar  @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" a backup.rar  C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" a backup.rar -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" a backup.rar -hp -pS3cr3t @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" a backup.rar -hp -pS3cr3t C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" a backup.rar -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" a backup.rar -pS3cr3t @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" a backup.rar -pS3cr3t C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" a backup.rar -r "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" a backup.rar -r @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" a backup.rar -r C:\Users\Public\Documents
+"%ProgramFiles%\WinRAR\Rar.exe" a backup.rar -s "%USERPROFILE%\Desktop\*.docx"
+"%ProgramFiles%\WinRAR\Rar.exe" a backup.rar -s @files_list.txt
+"%ProgramFiles%\WinRAR\Rar.exe" a backup.rar -s C:\Users\Public\Documents
+RAR "a"  "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+RAR "a"  "%TEMP%\archive.zip" @files_list.txt
+RAR "a"  "%TEMP%\archive.zip" C:\Users\Public\Documents
+RAR "a"  backup.rar "%USERPROFILE%\Desktop\*.docx"
+RAR "a"  backup.rar @files_list.txt
+RAR "a"  backup.rar C:\Users\Public\Documents
+RAR "a" "%TEMP%\archive.zip"  "%USERPROFILE%\Desktop\*.docx"
+RAR "a" "%TEMP%\archive.zip"  @files_list.txt
+RAR "a" "%TEMP%\archive.zip"  C:\Users\Public\Documents
+RAR "a" "%TEMP%\archive.zip" -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+RAR "a" "%TEMP%\archive.zip" -hp -pS3cr3t @files_list.txt
+RAR "a" "%TEMP%\archive.zip" -hp -pS3cr3t C:\Users\Public\Documents
+RAR "a" "%TEMP%\archive.zip" -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+RAR "a" "%TEMP%\archive.zip" -pS3cr3t @files_list.txt
+RAR "a" "%TEMP%\archive.zip" -pS3cr3t C:\Users\Public\Documents
+RAR "a" "%TEMP%\archive.zip" -r "%USERPROFILE%\Desktop\*.docx"
+RAR "a" "%TEMP%\archive.zip" -r @files_list.txt
+RAR "a" "%TEMP%\archive.zip" -r C:\Users\Public\Documents
+RAR "a" "%TEMP%\archive.zip" -s "%USERPROFILE%\Desktop\*.docx"
+RAR "a" "%TEMP%\archive.zip" -s @files_list.txt
+RAR "a" "%TEMP%\archive.zip" -s C:\Users\Public\Documents
+RAR "a" -hp -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+RAR "a" -hp -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+RAR "a" -hp -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+RAR "a" -hp -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+RAR "a" -hp -pS3cr3t backup.rar @files_list.txt
+RAR "a" -hp -pS3cr3t backup.rar C:\Users\Public\Documents
+RAR "a" -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+RAR "a" -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+RAR "a" -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+RAR "a" -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+RAR "a" -pS3cr3t backup.rar @files_list.txt
+RAR "a" -pS3cr3t backup.rar C:\Users\Public\Documents
+RAR "a" -r "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+RAR "a" -r "%TEMP%\archive.zip" @files_list.txt
+RAR "a" -r "%TEMP%\archive.zip" C:\Users\Public\Documents
+RAR "a" -r backup.rar "%USERPROFILE%\Desktop\*.docx"
+RAR "a" -r backup.rar @files_list.txt
+RAR "a" -r backup.rar C:\Users\Public\Documents
+RAR "a" -s "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+RAR "a" -s "%TEMP%\archive.zip" @files_list.txt
+RAR "a" -s "%TEMP%\archive.zip" C:\Users\Public\Documents
+RAR "a" -s backup.rar "%USERPROFILE%\Desktop\*.docx"
+RAR "a" -s backup.rar @files_list.txt
+RAR "a" -s backup.rar C:\Users\Public\Documents
+RAR "a" backup.rar  "%USERPROFILE%\Desktop\*.docx"
+RAR "a" backup.rar  @files_list.txt
+RAR "a" backup.rar  C:\Users\Public\Documents
+RAR "a" backup.rar -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+RAR "a" backup.rar -hp -pS3cr3t @files_list.txt
+RAR "a" backup.rar -hp -pS3cr3t C:\Users\Public\Documents
+RAR "a" backup.rar -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+RAR "a" backup.rar -pS3cr3t @files_list.txt
+RAR "a" backup.rar -pS3cr3t C:\Users\Public\Documents
+RAR "a" backup.rar -r "%USERPROFILE%\Desktop\*.docx"
+RAR "a" backup.rar -r @files_list.txt
+RAR "a" backup.rar -r C:\Users\Public\Documents
+RAR "a" backup.rar -s "%USERPROFILE%\Desktop\*.docx"
+RAR "a" backup.rar -s @files_list.txt
+RAR "a" backup.rar -s C:\Users\Public\Documents
+RAR 'a'  "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+RAR 'a'  "%TEMP%\archive.zip" @files_list.txt
+RAR 'a'  "%TEMP%\archive.zip" C:\Users\Public\Documents
+RAR 'a'  backup.rar "%USERPROFILE%\Desktop\*.docx"
+RAR 'a'  backup.rar @files_list.txt
+RAR 'a'  backup.rar C:\Users\Public\Documents
+RAR 'a' "%TEMP%\archive.zip"  "%USERPROFILE%\Desktop\*.docx"
+RAR 'a' "%TEMP%\archive.zip"  @files_list.txt
+RAR 'a' "%TEMP%\archive.zip"  C:\Users\Public\Documents
+RAR 'a' "%TEMP%\archive.zip" -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+RAR 'a' "%TEMP%\archive.zip" -hp -pS3cr3t @files_list.txt
+RAR 'a' "%TEMP%\archive.zip" -hp -pS3cr3t C:\Users\Public\Documents
+RAR 'a' "%TEMP%\archive.zip" -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+RAR 'a' "%TEMP%\archive.zip" -pS3cr3t @files_list.txt
+RAR 'a' "%TEMP%\archive.zip" -pS3cr3t C:\Users\Public\Documents
+RAR 'a' "%TEMP%\archive.zip" -r "%USERPROFILE%\Desktop\*.docx"
+RAR 'a' "%TEMP%\archive.zip" -r @files_list.txt
+RAR 'a' "%TEMP%\archive.zip" -r C:\Users\Public\Documents
+RAR 'a' "%TEMP%\archive.zip" -s "%USERPROFILE%\Desktop\*.docx"
+RAR 'a' "%TEMP%\archive.zip" -s @files_list.txt
+RAR 'a' "%TEMP%\archive.zip" -s C:\Users\Public\Documents
+RAR 'a' -hp -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+RAR 'a' -hp -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+RAR 'a' -hp -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+RAR 'a' -hp -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+RAR 'a' -hp -pS3cr3t backup.rar @files_list.txt
+RAR 'a' -hp -pS3cr3t backup.rar C:\Users\Public\Documents
+RAR 'a' -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+RAR 'a' -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+RAR 'a' -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+RAR 'a' -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+RAR 'a' -pS3cr3t backup.rar @files_list.txt
+RAR 'a' -pS3cr3t backup.rar C:\Users\Public\Documents
+RAR 'a' -r "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+RAR 'a' -r "%TEMP%\archive.zip" @files_list.txt
+RAR 'a' -r "%TEMP%\archive.zip" C:\Users\Public\Documents
+RAR 'a' -r backup.rar "%USERPROFILE%\Desktop\*.docx"
+RAR 'a' -r backup.rar @files_list.txt
+RAR 'a' -r backup.rar C:\Users\Public\Documents
+RAR 'a' -s "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+RAR 'a' -s "%TEMP%\archive.zip" @files_list.txt
+RAR 'a' -s "%TEMP%\archive.zip" C:\Users\Public\Documents
+RAR 'a' -s backup.rar "%USERPROFILE%\Desktop\*.docx"
+RAR 'a' -s backup.rar @files_list.txt
+RAR 'a' -s backup.rar C:\Users\Public\Documents
+RAR 'a' backup.rar  "%USERPROFILE%\Desktop\*.docx"
+RAR 'a' backup.rar  @files_list.txt
+RAR 'a' backup.rar  C:\Users\Public\Documents
+RAR 'a' backup.rar -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+RAR 'a' backup.rar -hp -pS3cr3t @files_list.txt
+RAR 'a' backup.rar -hp -pS3cr3t C:\Users\Public\Documents
+RAR 'a' backup.rar -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+RAR 'a' backup.rar -pS3cr3t @files_list.txt
+RAR 'a' backup.rar -pS3cr3t C:\Users\Public\Documents
+RAR 'a' backup.rar -r "%USERPROFILE%\Desktop\*.docx"
+RAR 'a' backup.rar -r @files_list.txt
+RAR 'a' backup.rar -r C:\Users\Public\Documents
+RAR 'a' backup.rar -s "%USERPROFILE%\Desktop\*.docx"
+RAR 'a' backup.rar -s @files_list.txt
+RAR 'a' backup.rar -s C:\Users\Public\Documents
+RAR A  "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+RAR A  "%TEMP%\archive.zip" @files_list.txt
+RAR A  "%TEMP%\archive.zip" C:\Users\Public\Documents
+RAR A  backup.rar "%USERPROFILE%\Desktop\*.docx"
+RAR A  backup.rar @files_list.txt
+RAR A  backup.rar C:\Users\Public\Documents
+RAR A "%TEMP%\archive.zip"  "%USERPROFILE%\Desktop\*.docx"
+RAR A "%TEMP%\archive.zip"  @files_list.txt
+RAR A "%TEMP%\archive.zip"  C:\Users\Public\Documents
+RAR A "%TEMP%\archive.zip" -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+RAR A "%TEMP%\archive.zip" -hp -pS3cr3t @files_list.txt
+RAR A "%TEMP%\archive.zip" -hp -pS3cr3t C:\Users\Public\Documents
+RAR A "%TEMP%\archive.zip" -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+RAR A "%TEMP%\archive.zip" -pS3cr3t @files_list.txt
+RAR A "%TEMP%\archive.zip" -pS3cr3t C:\Users\Public\Documents
+RAR A "%TEMP%\archive.zip" -r "%USERPROFILE%\Desktop\*.docx"
+RAR A "%TEMP%\archive.zip" -r @files_list.txt
+RAR A "%TEMP%\archive.zip" -r C:\Users\Public\Documents
+RAR A "%TEMP%\archive.zip" -s "%USERPROFILE%\Desktop\*.docx"
+RAR A "%TEMP%\archive.zip" -s @files_list.txt
+RAR A "%TEMP%\archive.zip" -s C:\Users\Public\Documents
+RAR A -hp -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+RAR A -hp -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+RAR A -hp -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+RAR A -hp -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+RAR A -hp -pS3cr3t backup.rar @files_list.txt
+RAR A -hp -pS3cr3t backup.rar C:\Users\Public\Documents
+RAR A -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+RAR A -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+RAR A -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+RAR A -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+RAR A -pS3cr3t backup.rar @files_list.txt
+RAR A -pS3cr3t backup.rar C:\Users\Public\Documents
+RAR A -r "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+RAR A -r "%TEMP%\archive.zip" @files_list.txt
+RAR A -r "%TEMP%\archive.zip" C:\Users\Public\Documents
+RAR A -r backup.rar "%USERPROFILE%\Desktop\*.docx"
+RAR A -r backup.rar @files_list.txt
+RAR A -r backup.rar C:\Users\Public\Documents
+RAR A -s "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+RAR A -s "%TEMP%\archive.zip" @files_list.txt
+RAR A -s "%TEMP%\archive.zip" C:\Users\Public\Documents
+RAR A -s backup.rar "%USERPROFILE%\Desktop\*.docx"
+RAR A -s backup.rar @files_list.txt
+RAR A -s backup.rar C:\Users\Public\Documents
+RAR A backup.rar  "%USERPROFILE%\Desktop\*.docx"
+RAR A backup.rar  @files_list.txt
+RAR A backup.rar  C:\Users\Public\Documents
+RAR A backup.rar -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+RAR A backup.rar -hp -pS3cr3t @files_list.txt
+RAR A backup.rar -hp -pS3cr3t C:\Users\Public\Documents
+RAR A backup.rar -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+RAR A backup.rar -pS3cr3t @files_list.txt
+RAR A backup.rar -pS3cr3t C:\Users\Public\Documents
+RAR A backup.rar -r "%USERPROFILE%\Desktop\*.docx"
+RAR A backup.rar -r @files_list.txt
+RAR A backup.rar -r C:\Users\Public\Documents
+RAR A backup.rar -s "%USERPROFILE%\Desktop\*.docx"
+RAR A backup.rar -s @files_list.txt
+RAR A backup.rar -s C:\Users\Public\Documents
+RAR a  "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+RAR a  "%TEMP%\archive.zip" @files_list.txt
+RAR a  "%TEMP%\archive.zip" C:\Users\Public\Documents
+RAR a  backup.rar "%USERPROFILE%\Desktop\*.docx"
+RAR a  backup.rar @files_list.txt
+RAR a  backup.rar C:\Users\Public\Documents
+RAR a "%TEMP%\archive.zip"  "%USERPROFILE%\Desktop\*.docx"
+RAR a "%TEMP%\archive.zip"  @files_list.txt
+RAR a "%TEMP%\archive.zip"  C:\Users\Public\Documents
+RAR a "%TEMP%\archive.zip" -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+RAR a "%TEMP%\archive.zip" -hp -pS3cr3t @files_list.txt
+RAR a "%TEMP%\archive.zip" -hp -pS3cr3t C:\Users\Public\Documents
+RAR a "%TEMP%\archive.zip" -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+RAR a "%TEMP%\archive.zip" -pS3cr3t @files_list.txt
+RAR a "%TEMP%\archive.zip" -pS3cr3t C:\Users\Public\Documents
+RAR a "%TEMP%\archive.zip" -r "%USERPROFILE%\Desktop\*.docx"
+RAR a "%TEMP%\archive.zip" -r @files_list.txt
+RAR a "%TEMP%\archive.zip" -r C:\Users\Public\Documents
+RAR a "%TEMP%\archive.zip" -s "%USERPROFILE%\Desktop\*.docx"
+RAR a "%TEMP%\archive.zip" -s @files_list.txt
+RAR a "%TEMP%\archive.zip" -s C:\Users\Public\Documents
+RAR a -hp -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+RAR a -hp -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+RAR a -hp -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+RAR a -hp -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+RAR a -hp -pS3cr3t backup.rar @files_list.txt
+RAR a -hp -pS3cr3t backup.rar C:\Users\Public\Documents
+RAR a -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+RAR a -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+RAR a -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+RAR a -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+RAR a -pS3cr3t backup.rar @files_list.txt
+RAR a -pS3cr3t backup.rar C:\Users\Public\Documents
+RAR a -r "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+RAR a -r "%TEMP%\archive.zip" @files_list.txt
+RAR a -r "%TEMP%\archive.zip" C:\Users\Public\Documents
+RAR a -r backup.rar "%USERPROFILE%\Desktop\*.docx"
+RAR a -r backup.rar @files_list.txt
+RAR a -r backup.rar C:\Users\Public\Documents
+RAR a -s "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+RAR a -s "%TEMP%\archive.zip" @files_list.txt
+RAR a -s "%TEMP%\archive.zip" C:\Users\Public\Documents
+RAR a -s backup.rar "%USERPROFILE%\Desktop\*.docx"
+RAR a -s backup.rar @files_list.txt
+RAR a -s backup.rar C:\Users\Public\Documents
+RAR a backup.rar  "%USERPROFILE%\Desktop\*.docx"
+RAR a backup.rar  @files_list.txt
+RAR a backup.rar  C:\Users\Public\Documents
+RAR a backup.rar -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+RAR a backup.rar -hp -pS3cr3t @files_list.txt
+RAR a backup.rar -hp -pS3cr3t C:\Users\Public\Documents
+RAR a backup.rar -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+RAR a backup.rar -pS3cr3t @files_list.txt
+RAR a backup.rar -pS3cr3t C:\Users\Public\Documents
+RAR a backup.rar -r "%USERPROFILE%\Desktop\*.docx"
+RAR a backup.rar -r @files_list.txt
+RAR a backup.rar -r C:\Users\Public\Documents
+RAR a backup.rar -s "%USERPROFILE%\Desktop\*.docx"
+RAR a backup.rar -s @files_list.txt
+RAR a backup.rar -s C:\Users\Public\Documents
+rar.exe "a"  "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+rar.exe "a"  "%TEMP%\archive.zip" @files_list.txt
+rar.exe "a"  "%TEMP%\archive.zip" C:\Users\Public\Documents
+rar.exe "a"  backup.rar "%USERPROFILE%\Desktop\*.docx"
+rar.exe "a"  backup.rar @files_list.txt
+rar.exe "a"  backup.rar C:\Users\Public\Documents
+rar.exe "a" "%TEMP%\archive.zip"  "%USERPROFILE%\Desktop\*.docx"
+rar.exe "a" "%TEMP%\archive.zip"  @files_list.txt
+rar.exe "a" "%TEMP%\archive.zip"  C:\Users\Public\Documents
+rar.exe "a" "%TEMP%\archive.zip" -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+rar.exe "a" "%TEMP%\archive.zip" -hp -pS3cr3t @files_list.txt
+rar.exe "a" "%TEMP%\archive.zip" -hp -pS3cr3t C:\Users\Public\Documents
+rar.exe "a" "%TEMP%\archive.zip" -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+rar.exe "a" "%TEMP%\archive.zip" -pS3cr3t @files_list.txt
+rar.exe "a" "%TEMP%\archive.zip" -pS3cr3t C:\Users\Public\Documents
+rar.exe "a" "%TEMP%\archive.zip" -r "%USERPROFILE%\Desktop\*.docx"
+rar.exe "a" "%TEMP%\archive.zip" -r @files_list.txt
+rar.exe "a" "%TEMP%\archive.zip" -r C:\Users\Public\Documents
+rar.exe "a" "%TEMP%\archive.zip" -s "%USERPROFILE%\Desktop\*.docx"
+rar.exe "a" "%TEMP%\archive.zip" -s @files_list.txt
+rar.exe "a" "%TEMP%\archive.zip" -s C:\Users\Public\Documents
+rar.exe "a" -hp -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+rar.exe "a" -hp -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+rar.exe "a" -hp -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+rar.exe "a" -hp -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+rar.exe "a" -hp -pS3cr3t backup.rar @files_list.txt
+rar.exe "a" -hp -pS3cr3t backup.rar C:\Users\Public\Documents
+rar.exe "a" -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+rar.exe "a" -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+rar.exe "a" -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+rar.exe "a" -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+rar.exe "a" -pS3cr3t backup.rar @files_list.txt
+rar.exe "a" -r "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+rar.exe "a" -r "%TEMP%\archive.zip" @files_list.txt
+rar.exe "a" -r "%TEMP%\archive.zip" C:\Users\Public\Documents
+rar.exe "a" -r backup.rar "%USERPROFILE%\Desktop\*.docx"
+rar.exe "a" -r backup.rar @files_list.txt
+rar.exe "a" -r backup.rar C:\Users\Public\Documents
+rar.exe "a" -s "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+rar.exe "a" -s "%TEMP%\archive.zip" @files_list.txt
+rar.exe "a" -s "%TEMP%\archive.zip" C:\Users\Public\Documents
+rar.exe "a" -s backup.rar "%USERPROFILE%\Desktop\*.docx"
+rar.exe "a" -s backup.rar @files_list.txt
+rar.exe "a" -s backup.rar C:\Users\Public\Documents
+rar.exe "a" backup.rar  "%USERPROFILE%\Desktop\*.docx"
+rar.exe "a" backup.rar  @files_list.txt
+rar.exe "a" backup.rar  C:\Users\Public\Documents
+rar.exe "a" backup.rar -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+rar.exe "a" backup.rar -hp -pS3cr3t @files_list.txt
+rar.exe "a" backup.rar -hp -pS3cr3t C:\Users\Public\Documents
+rar.exe "a" backup.rar -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+rar.exe "a" backup.rar -pS3cr3t @files_list.txt
+rar.exe "a" backup.rar -pS3cr3t C:\Users\Public\Documents
+rar.exe "a" backup.rar -r "%USERPROFILE%\Desktop\*.docx"
+rar.exe "a" backup.rar -r @files_list.txt
+rar.exe "a" backup.rar -r C:\Users\Public\Documents
+rar.exe "a" backup.rar -s "%USERPROFILE%\Desktop\*.docx"
+rar.exe "a" backup.rar -s @files_list.txt
+rar.exe "a" backup.rar -s C:\Users\Public\Documents
+rar.exe 'a'  "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+rar.exe 'a'  "%TEMP%\archive.zip" @files_list.txt
+rar.exe 'a'  "%TEMP%\archive.zip" C:\Users\Public\Documents
+rar.exe 'a'  backup.rar "%USERPROFILE%\Desktop\*.docx"
+rar.exe 'a'  backup.rar @files_list.txt
+rar.exe 'a'  backup.rar C:\Users\Public\Documents
+rar.exe 'a' "%TEMP%\archive.zip"  "%USERPROFILE%\Desktop\*.docx"
+rar.exe 'a' "%TEMP%\archive.zip"  @files_list.txt
+rar.exe 'a' "%TEMP%\archive.zip"  C:\Users\Public\Documents
+rar.exe 'a' "%TEMP%\archive.zip" -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+rar.exe 'a' "%TEMP%\archive.zip" -hp -pS3cr3t @files_list.txt
+rar.exe 'a' "%TEMP%\archive.zip" -hp -pS3cr3t C:\Users\Public\Documents
+rar.exe 'a' "%TEMP%\archive.zip" -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+rar.exe 'a' "%TEMP%\archive.zip" -pS3cr3t @files_list.txt
+rar.exe 'a' "%TEMP%\archive.zip" -pS3cr3t C:\Users\Public\Documents
+rar.exe 'a' "%TEMP%\archive.zip" -r "%USERPROFILE%\Desktop\*.docx"
+rar.exe 'a' "%TEMP%\archive.zip" -r @files_list.txt
+rar.exe 'a' "%TEMP%\archive.zip" -r C:\Users\Public\Documents
+rar.exe 'a' "%TEMP%\archive.zip" -s "%USERPROFILE%\Desktop\*.docx"
+rar.exe 'a' "%TEMP%\archive.zip" -s @files_list.txt
+rar.exe 'a' "%TEMP%\archive.zip" -s C:\Users\Public\Documents
+rar.exe 'a' -hp -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+rar.exe 'a' -hp -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+rar.exe 'a' -hp -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+rar.exe 'a' -hp -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+rar.exe 'a' -hp -pS3cr3t backup.rar @files_list.txt
+rar.exe 'a' -hp -pS3cr3t backup.rar C:\Users\Public\Documents
+rar.exe 'a' -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+rar.exe 'a' -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+rar.exe 'a' -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+rar.exe 'a' -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+rar.exe 'a' -pS3cr3t backup.rar @files_list.txt
+rar.exe 'a' -pS3cr3t backup.rar C:\Users\Public\Documents
+rar.exe 'a' -r "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+rar.exe 'a' -r "%TEMP%\archive.zip" @files_list.txt
+rar.exe 'a' -r "%TEMP%\archive.zip" C:\Users\Public\Documents
+rar.exe 'a' -r backup.rar "%USERPROFILE%\Desktop\*.docx"
+rar.exe 'a' -r backup.rar @files_list.txt
+rar.exe 'a' -r backup.rar C:\Users\Public\Documents
+rar.exe 'a' -s "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+rar.exe 'a' -s "%TEMP%\archive.zip" @files_list.txt
+rar.exe 'a' -s "%TEMP%\archive.zip" C:\Users\Public\Documents
+rar.exe 'a' -s backup.rar "%USERPROFILE%\Desktop\*.docx"
+rar.exe 'a' -s backup.rar @files_list.txt
+rar.exe 'a' -s backup.rar C:\Users\Public\Documents
+rar.exe 'a' backup.rar  "%USERPROFILE%\Desktop\*.docx"
+rar.exe 'a' backup.rar  @files_list.txt
+rar.exe 'a' backup.rar  C:\Users\Public\Documents
+rar.exe 'a' backup.rar -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+rar.exe 'a' backup.rar -hp -pS3cr3t @files_list.txt
+rar.exe 'a' backup.rar -hp -pS3cr3t C:\Users\Public\Documents
+rar.exe 'a' backup.rar -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+rar.exe 'a' backup.rar -pS3cr3t @files_list.txt
+rar.exe 'a' backup.rar -pS3cr3t C:\Users\Public\Documents
+rar.exe 'a' backup.rar -r "%USERPROFILE%\Desktop\*.docx"
+rar.exe 'a' backup.rar -r @files_list.txt
+rar.exe 'a' backup.rar -r C:\Users\Public\Documents
+rar.exe 'a' backup.rar -s "%USERPROFILE%\Desktop\*.docx"
+rar.exe 'a' backup.rar -s @files_list.txt
+rar.exe 'a' backup.rar -s C:\Users\Public\Documents
+rar.exe A  "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+rar.exe A  "%TEMP%\archive.zip" @files_list.txt
+rar.exe A  "%TEMP%\archive.zip" C:\Users\Public\Documents
+rar.exe A  backup.rar "%USERPROFILE%\Desktop\*.docx"
+rar.exe A  backup.rar @files_list.txt
+rar.exe A  backup.rar C:\Users\Public\Documents
+rar.exe A "%TEMP%\archive.zip"  "%USERPROFILE%\Desktop\*.docx"
+rar.exe A "%TEMP%\archive.zip"  @files_list.txt
+rar.exe A "%TEMP%\archive.zip"  C:\Users\Public\Documents
+rar.exe A "%TEMP%\archive.zip" -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+rar.exe A "%TEMP%\archive.zip" -hp -pS3cr3t @files_list.txt
+rar.exe A "%TEMP%\archive.zip" -hp -pS3cr3t C:\Users\Public\Documents
+rar.exe A "%TEMP%\archive.zip" -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+rar.exe A "%TEMP%\archive.zip" -pS3cr3t @files_list.txt
+rar.exe A "%TEMP%\archive.zip" -pS3cr3t C:\Users\Public\Documents
+rar.exe A "%TEMP%\archive.zip" -r "%USERPROFILE%\Desktop\*.docx"
+rar.exe A "%TEMP%\archive.zip" -r @files_list.txt
+rar.exe A "%TEMP%\archive.zip" -r C:\Users\Public\Documents
+rar.exe A "%TEMP%\archive.zip" -s "%USERPROFILE%\Desktop\*.docx"
+rar.exe A "%TEMP%\archive.zip" -s @files_list.txt
+rar.exe A "%TEMP%\archive.zip" -s C:\Users\Public\Documents
+rar.exe A -hp -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+rar.exe A -hp -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+rar.exe A -hp -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+rar.exe A -hp -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+rar.exe A -hp -pS3cr3t backup.rar @files_list.txt
+rar.exe A -hp -pS3cr3t backup.rar C:\Users\Public\Documents
+rar.exe A -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+rar.exe A -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+rar.exe A -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+rar.exe A -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+rar.exe A -pS3cr3t backup.rar @files_list.txt
+rar.exe A -pS3cr3t backup.rar C:\Users\Public\Documents
+rar.exe A -r "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+rar.exe A -r "%TEMP%\archive.zip" @files_list.txt
+rar.exe A -r "%TEMP%\archive.zip" C:\Users\Public\Documents
+rar.exe A -r backup.rar "%USERPROFILE%\Desktop\*.docx"
+rar.exe A -r backup.rar @files_list.txt
+rar.exe A -r backup.rar C:\Users\Public\Documents
+rar.exe A -s "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+rar.exe A -s "%TEMP%\archive.zip" @files_list.txt
+rar.exe A -s "%TEMP%\archive.zip" C:\Users\Public\Documents
+rar.exe A -s backup.rar "%USERPROFILE%\Desktop\*.docx"
+rar.exe A -s backup.rar @files_list.txt
+rar.exe A -s backup.rar C:\Users\Public\Documents
+rar.exe A backup.rar  "%USERPROFILE%\Desktop\*.docx"
+rar.exe A backup.rar  @files_list.txt
+rar.exe A backup.rar  C:\Users\Public\Documents
+rar.exe A backup.rar -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+rar.exe A backup.rar -hp -pS3cr3t @files_list.txt
+rar.exe A backup.rar -hp -pS3cr3t C:\Users\Public\Documents
+rar.exe A backup.rar -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+rar.exe A backup.rar -pS3cr3t @files_list.txt
+rar.exe A backup.rar -pS3cr3t C:\Users\Public\Documents
+rar.exe A backup.rar -r "%USERPROFILE%\Desktop\*.docx"
+rar.exe A backup.rar -r @files_list.txt
+rar.exe A backup.rar -r C:\Users\Public\Documents
+rar.exe A backup.rar -s "%USERPROFILE%\Desktop\*.docx"
+rar.exe A backup.rar -s @files_list.txt
+rar.exe A backup.rar -s C:\Users\Public\Documents
+rar.exe a  "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+rar.exe a  "%TEMP%\archive.zip" @files_list.txt
+rar.exe a  "%TEMP%\archive.zip" C:\Users\Public\Documents
+rar.exe a  backup.rar "%USERPROFILE%\Desktop\*.docx"
+rar.exe a  backup.rar @files_list.txt
+rar.exe a  backup.rar C:\Users\Public\Documents
+rar.exe a "%TEMP%\archive.zip"  "%USERPROFILE%\Desktop\*.docx"
+rar.exe a "%TEMP%\archive.zip"  @files_list.txt
+rar.exe a "%TEMP%\archive.zip"  C:\Users\Public\Documents
+rar.exe a "%TEMP%\archive.zip" -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+rar.exe a "%TEMP%\archive.zip" -hp -pS3cr3t @files_list.txt
+rar.exe a "%TEMP%\archive.zip" -hp -pS3cr3t C:\Users\Public\Documents
+rar.exe a "%TEMP%\archive.zip" -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+rar.exe a "%TEMP%\archive.zip" -pS3cr3t @files_list.txt
+rar.exe a "%TEMP%\archive.zip" -pS3cr3t C:\Users\Public\Documents
+rar.exe a "%TEMP%\archive.zip" -r "%USERPROFILE%\Desktop\*.docx"
+rar.exe a "%TEMP%\archive.zip" -r @files_list.txt
+rar.exe a "%TEMP%\archive.zip" -r C:\Users\Public\Documents
+rar.exe a "%TEMP%\archive.zip" -s "%USERPROFILE%\Desktop\*.docx"
+rar.exe a "%TEMP%\archive.zip" -s @files_list.txt
+rar.exe a "%TEMP%\archive.zip" -s C:\Users\Public\Documents
+rar.exe a -hp -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+rar.exe a -hp -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+rar.exe a -hp -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+rar.exe a -hp -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+rar.exe a -hp -pS3cr3t backup.rar @files_list.txt
+rar.exe a -hp -pS3cr3t backup.rar C:\Users\Public\Documents
+rar.exe a -pS3cr3t "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+rar.exe a -pS3cr3t "%TEMP%\archive.zip" @files_list.txt
+rar.exe a -pS3cr3t "%TEMP%\archive.zip" C:\Users\Public\Documents
+rar.exe a -pS3cr3t backup.rar "%USERPROFILE%\Desktop\*.docx"
+rar.exe a -pS3cr3t backup.rar @files_list.txt
+rar.exe a -pS3cr3t backup.rar C:\Users\Public\Documents
+rar.exe a -r "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+rar.exe a -r "%TEMP%\archive.zip" @files_list.txt
+rar.exe a -r "%TEMP%\archive.zip" C:\Users\Public\Documents
+rar.exe a -r backup.rar "%USERPROFILE%\Desktop\*.docx"
+rar.exe a -r backup.rar @files_list.txt
+rar.exe a -r backup.rar C:\Users\Public\Documents
+rar.exe a -s "%TEMP%\archive.zip" "%USERPROFILE%\Desktop\*.docx"
+rar.exe a -s "%TEMP%\archive.zip" @files_list.txt
+rar.exe a -s "%TEMP%\archive.zip" C:\Users\Public\Documents
+rar.exe a -s backup.rar "%USERPROFILE%\Desktop\*.docx"
+rar.exe a -s backup.rar @files_list.txt
+rar.exe a -s backup.rar C:\Users\Public\Documents
+rar.exe a backup.rar  "%USERPROFILE%\Desktop\*.docx"
+rar.exe a backup.rar  @files_list.txt
+rar.exe a backup.rar  C:\Users\Public\Documents
+rar.exe a backup.rar -hp -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+rar.exe a backup.rar -hp -pS3cr3t @files_list.txt
+rar.exe a backup.rar -hp -pS3cr3t C:\Users\Public\Documents
+rar.exe a backup.rar -pS3cr3t "%USERPROFILE%\Desktop\*.docx"
+rar.exe a backup.rar -pS3cr3t @files_list.txt
+rar.exe a backup.rar -pS3cr3t C:\Users\Public\Documents
+rar.exe a backup.rar -r "%USERPROFILE%\Desktop\*.docx"
+rar.exe a backup.rar -r @files_list.txt
+rar.exe a backup.rar -r C:\Users\Public\Documents
+rar.exe a backup.rar -s "%USERPROFILE%\Desktop\*.docx"
+rar.exe a backup.rar -s @files_list.txt
+rar.exe a backup.rar -s C:\Users\Public\Documents

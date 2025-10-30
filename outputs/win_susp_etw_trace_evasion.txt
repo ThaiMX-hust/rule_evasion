@@ -1,0 +1,224 @@
+%SystemRoot%\System32\logman.exe "update" trace "Circular Kernel Context Logger" '-ets' --p "Microsoft-Windows-Kernel-Process"
+%SystemRoot%\System32\logman.exe "update" trace "Circular Kernel Context Logger" '-ets' -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+%SystemRoot%\System32\logman.exe "update" trace "Circular Kernel Context Logger" --p "Microsoft-Windows-Kernel-Process" '-ets'
+%SystemRoot%\System32\logman.exe "update" trace "Circular Kernel Context Logger" --p "Microsoft-Windows-Kernel-Process" -ets
+%SystemRoot%\System32\logman.exe "update" trace "Circular Kernel Context Logger" -ets --p "Microsoft-Windows-Kernel-Process"
+%SystemRoot%\System32\logman.exe "update" trace "Circular Kernel Context Logger" -ets -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+%SystemRoot%\System32\logman.exe "update" trace "Circular Kernel Context Logger" -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} '-ets'
+%SystemRoot%\System32\logman.exe "update" trace "Circular Kernel Context Logger" -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} -ets
+%SystemRoot%\System32\logman.exe "update" trace EventLog-System '-ets' --p "Microsoft-Windows-Kernel-Process"
+%SystemRoot%\System32\logman.exe "update" trace EventLog-System '-ets' -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+%SystemRoot%\System32\logman.exe "update" trace EventLog-System --p "Microsoft-Windows-Kernel-Process" '-ets'
+%SystemRoot%\System32\logman.exe "update" trace EventLog-System --p "Microsoft-Windows-Kernel-Process" -ets
+%SystemRoot%\System32\logman.exe "update" trace EventLog-System -ets --p "Microsoft-Windows-Kernel-Process"
+%SystemRoot%\System32\logman.exe "update" trace EventLog-System -ets -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+%SystemRoot%\System32\logman.exe "update" trace EventLog-System -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} '-ets'
+%SystemRoot%\System32\logman.exe "update" trace EventLog-System -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} -ets
+%SystemRoot%\System32\logman.exe upd^ate trace "Circular Kernel Context Logger" '-ets' --p "Microsoft-Windows-Kernel-Process"
+%SystemRoot%\System32\logman.exe upd^ate trace "Circular Kernel Context Logger" '-ets' -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+%SystemRoot%\System32\logman.exe upd^ate trace "Circular Kernel Context Logger" --p "Microsoft-Windows-Kernel-Process" '-ets'
+%SystemRoot%\System32\logman.exe upd^ate trace "Circular Kernel Context Logger" --p "Microsoft-Windows-Kernel-Process" -ets
+%SystemRoot%\System32\logman.exe upd^ate trace "Circular Kernel Context Logger" -ets --p "Microsoft-Windows-Kernel-Process"
+%SystemRoot%\System32\logman.exe upd^ate trace "Circular Kernel Context Logger" -ets -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+%SystemRoot%\System32\logman.exe upd^ate trace "Circular Kernel Context Logger" -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} '-ets'
+%SystemRoot%\System32\logman.exe upd^ate trace "Circular Kernel Context Logger" -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} -ets
+%SystemRoot%\System32\logman.exe upd^ate trace EventLog-System '-ets' --p "Microsoft-Windows-Kernel-Process"
+%SystemRoot%\System32\logman.exe upd^ate trace EventLog-System '-ets' -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+%SystemRoot%\System32\logman.exe upd^ate trace EventLog-System --p "Microsoft-Windows-Kernel-Process" '-ets'
+%SystemRoot%\System32\logman.exe upd^ate trace EventLog-System --p "Microsoft-Windows-Kernel-Process" -ets
+%SystemRoot%\System32\logman.exe upd^ate trace EventLog-System -ets --p "Microsoft-Windows-Kernel-Process"
+%SystemRoot%\System32\logman.exe upd^ate trace EventLog-System -ets -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+%SystemRoot%\System32\logman.exe upd^ate trace EventLog-System -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} '-ets'
+%SystemRoot%\System32\logman.exe upd^ate trace EventLog-System -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} -ets
+%SystemRoot%\System32\logman.exe update trace "Circular Kernel Context Logger" '-ets' --p "Microsoft-Windows-Kernel-Process"
+%SystemRoot%\System32\logman.exe update trace "Circular Kernel Context Logger" '-ets' -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+%SystemRoot%\System32\logman.exe update trace "Circular Kernel Context Logger" --p "Microsoft-Windows-Kernel-Process" '-ets'
+%SystemRoot%\System32\logman.exe update trace "Circular Kernel Context Logger" --p "Microsoft-Windows-Kernel-Process" -ets
+%SystemRoot%\System32\logman.exe update trace "Circular Kernel Context Logger" -ets --p "Microsoft-Windows-Kernel-Process"
+%SystemRoot%\System32\logman.exe update trace "Circular Kernel Context Logger" -ets -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+%SystemRoot%\System32\logman.exe update trace "Circular Kernel Context Logger" -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} '-ets'
+%SystemRoot%\System32\logman.exe update trace "Circular Kernel Context Logger" -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} -ets
+%SystemRoot%\System32\logman.exe update trace EventLog-System '-ets' --p "Microsoft-Windows-Kernel-Process"
+%SystemRoot%\System32\logman.exe update trace EventLog-System '-ets' -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+%SystemRoot%\System32\logman.exe update trace EventLog-System --p "Microsoft-Windows-Kernel-Process" '-ets'
+%SystemRoot%\System32\logman.exe update trace EventLog-System --p "Microsoft-Windows-Kernel-Process" -ets
+%SystemRoot%\System32\logman.exe update trace EventLog-System -ets --p "Microsoft-Windows-Kernel-Process"
+%SystemRoot%\System32\logman.exe update trace EventLog-System -ets -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+%SystemRoot%\System32\logman.exe update trace EventLog-System -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} '-ets'
+%SystemRoot%\System32\logman.exe update trace EventLog-System -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} -ets
+%windir%\system32\wevtutil.exe "sl" "Windows PowerShell" /E:FALSE
+%windir%\system32\wevtutil.exe "sl" "Windows PowerShell" /e:false
+%windir%\system32\wevtutil.exe "sl" Microsoft-Windows-Sysmon/Operational /E:FALSE
+%windir%\system32\wevtutil.exe "sl" Microsoft-Windows-Sysmon/Operational /e:false
+%windir%\system32\wevtutil.exe 'cl' "Windows PowerShell" /Trace
+%windir%\system32\wevtutil.exe 'cl' Microsoft-Windows-Sysmon/Operational /Trace
+%windir%\system32\wevtutil.exe c^l "Windows PowerShell" /Trace
+%windir%\system32\wevtutil.exe c^l Microsoft-Windows-Sysmon/Operational /Trace
+%windir%\system32\wevtutil.exe cl "Windows PowerShell" /Trace
+%windir%\system32\wevtutil.exe cl Microsoft-Windows-Sysmon/Operational /Trace
+%windir%\system32\wevtutil.exe clear-log "Windows PowerShell" /Trace
+%windir%\system32\wevtutil.exe clear-log Microsoft-Windows-Sysmon/Operational /Trace
+%windir%\system32\wevtutil.exe s^l "Windows PowerShell" /E:FALSE
+%windir%\system32\wevtutil.exe s^l "Windows PowerShell" /e:false
+%windir%\system32\wevtutil.exe s^l Microsoft-Windows-Sysmon/Operational /E:FALSE
+%windir%\system32\wevtutil.exe s^l Microsoft-Windows-Sysmon/Operational /e:false
+%windir%\system32\wevtutil.exe set-log "Windows PowerShell" /E:FALSE
+%windir%\system32\wevtutil.exe set-log "Windows PowerShell" /e:false
+%windir%\system32\wevtutil.exe set-log Microsoft-Windows-Sysmon/Operational /E:FALSE
+%windir%\system32\wevtutil.exe set-log Microsoft-Windows-Sysmon/Operational /e:false
+%windir%\system32\wevtutil.exe sl "Windows PowerShell" /E:FALSE
+%windir%\system32\wevtutil.exe sl "Windows PowerShell" /e:false
+%windir%\system32\wevtutil.exe sl Microsoft-Windows-Sysmon/Operational /E:FALSE
+%windir%\system32\wevtutil.exe sl Microsoft-Windows-Sysmon/Operational /e:false
+LOGMAN "update" trace "Circular Kernel Context Logger" '-ets' --p "Microsoft-Windows-Kernel-Process"
+LOGMAN "update" trace "Circular Kernel Context Logger" '-ets' -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+LOGMAN "update" trace "Circular Kernel Context Logger" --p "Microsoft-Windows-Kernel-Process" '-ets'
+LOGMAN "update" trace "Circular Kernel Context Logger" --p "Microsoft-Windows-Kernel-Process" -ets
+LOGMAN "update" trace "Circular Kernel Context Logger" -ets --p "Microsoft-Windows-Kernel-Process"
+LOGMAN "update" trace "Circular Kernel Context Logger" -ets -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+LOGMAN "update" trace "Circular Kernel Context Logger" -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} '-ets'
+LOGMAN "update" trace "Circular Kernel Context Logger" -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} -ets
+LOGMAN "update" trace EventLog-System '-ets' --p "Microsoft-Windows-Kernel-Process"
+LOGMAN "update" trace EventLog-System '-ets' -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+LOGMAN "update" trace EventLog-System --p "Microsoft-Windows-Kernel-Process" '-ets'
+LOGMAN "update" trace EventLog-System --p "Microsoft-Windows-Kernel-Process" -ets
+LOGMAN "update" trace EventLog-System -ets --p "Microsoft-Windows-Kernel-Process"
+LOGMAN "update" trace EventLog-System -ets -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+LOGMAN "update" trace EventLog-System -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} '-ets'
+LOGMAN "update" trace EventLog-System -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} -ets
+LOGMAN upd^ate trace "Circular Kernel Context Logger" '-ets' --p "Microsoft-Windows-Kernel-Process"
+LOGMAN upd^ate trace "Circular Kernel Context Logger" '-ets' -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+LOGMAN upd^ate trace "Circular Kernel Context Logger" --p "Microsoft-Windows-Kernel-Process" '-ets'
+LOGMAN upd^ate trace "Circular Kernel Context Logger" --p "Microsoft-Windows-Kernel-Process" -ets
+LOGMAN upd^ate trace "Circular Kernel Context Logger" -ets --p "Microsoft-Windows-Kernel-Process"
+LOGMAN upd^ate trace "Circular Kernel Context Logger" -ets -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+LOGMAN upd^ate trace "Circular Kernel Context Logger" -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} '-ets'
+LOGMAN upd^ate trace "Circular Kernel Context Logger" -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} -ets
+LOGMAN upd^ate trace EventLog-System '-ets' --p "Microsoft-Windows-Kernel-Process"
+LOGMAN upd^ate trace EventLog-System '-ets' -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+LOGMAN upd^ate trace EventLog-System --p "Microsoft-Windows-Kernel-Process" '-ets'
+LOGMAN upd^ate trace EventLog-System --p "Microsoft-Windows-Kernel-Process" -ets
+LOGMAN upd^ate trace EventLog-System -ets --p "Microsoft-Windows-Kernel-Process"
+LOGMAN upd^ate trace EventLog-System -ets -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+LOGMAN upd^ate trace EventLog-System -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} '-ets'
+LOGMAN upd^ate trace EventLog-System -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} -ets
+LOGMAN update trace "Circular Kernel Context Logger" '-ets' --p "Microsoft-Windows-Kernel-Process"
+LOGMAN update trace "Circular Kernel Context Logger" '-ets' -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+LOGMAN update trace "Circular Kernel Context Logger" --p "Microsoft-Windows-Kernel-Process" '-ets'
+LOGMAN update trace "Circular Kernel Context Logger" --p "Microsoft-Windows-Kernel-Process" -ets
+LOGMAN update trace "Circular Kernel Context Logger" -ets --p "Microsoft-Windows-Kernel-Process"
+LOGMAN update trace "Circular Kernel Context Logger" -ets -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+LOGMAN update trace "Circular Kernel Context Logger" -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} '-ets'
+LOGMAN update trace "Circular Kernel Context Logger" -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} -ets
+LOGMAN update trace EventLog-System '-ets' --p "Microsoft-Windows-Kernel-Process"
+LOGMAN update trace EventLog-System '-ets' -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+LOGMAN update trace EventLog-System --p "Microsoft-Windows-Kernel-Process" '-ets'
+LOGMAN update trace EventLog-System --p "Microsoft-Windows-Kernel-Process" -ets
+LOGMAN update trace EventLog-System -ets --p "Microsoft-Windows-Kernel-Process"
+LOGMAN update trace EventLog-System -ets -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+LOGMAN update trace EventLog-System -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} '-ets'
+LOGMAN update trace EventLog-System -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} -ets
+logman.exe "update" trace "Circular Kernel Context Logger" '-ets' --p "Microsoft-Windows-Kernel-Process"
+logman.exe "update" trace "Circular Kernel Context Logger" '-ets' -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+logman.exe "update" trace "Circular Kernel Context Logger" --p "Microsoft-Windows-Kernel-Process" '-ets'
+logman.exe "update" trace "Circular Kernel Context Logger" --p "Microsoft-Windows-Kernel-Process" -ets
+logman.exe "update" trace "Circular Kernel Context Logger" -ets --p "Microsoft-Windows-Kernel-Process"
+logman.exe "update" trace "Circular Kernel Context Logger" -ets -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+logman.exe "update" trace "Circular Kernel Context Logger" -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} '-ets'
+logman.exe "update" trace "Circular Kernel Context Logger" -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} -ets
+logman.exe "update" trace EventLog-System '-ets' --p "Microsoft-Windows-Kernel-Process"
+logman.exe "update" trace EventLog-System '-ets' -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+logman.exe "update" trace EventLog-System --p "Microsoft-Windows-Kernel-Process" '-ets'
+logman.exe "update" trace EventLog-System --p "Microsoft-Windows-Kernel-Process" -ets
+logman.exe "update" trace EventLog-System -ets --p "Microsoft-Windows-Kernel-Process"
+logman.exe "update" trace EventLog-System -ets -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+logman.exe "update" trace EventLog-System -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} '-ets'
+logman.exe "update" trace EventLog-System -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} -ets
+logman.exe upd^ate trace "Circular Kernel Context Logger" '-ets' --p "Microsoft-Windows-Kernel-Process"
+logman.exe upd^ate trace "Circular Kernel Context Logger" '-ets' -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+logman.exe upd^ate trace "Circular Kernel Context Logger" --p "Microsoft-Windows-Kernel-Process" '-ets'
+logman.exe upd^ate trace "Circular Kernel Context Logger" --p "Microsoft-Windows-Kernel-Process" -ets
+logman.exe upd^ate trace "Circular Kernel Context Logger" -ets --p "Microsoft-Windows-Kernel-Process"
+logman.exe upd^ate trace "Circular Kernel Context Logger" -ets -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+logman.exe upd^ate trace "Circular Kernel Context Logger" -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} '-ets'
+logman.exe upd^ate trace "Circular Kernel Context Logger" -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} -ets
+logman.exe upd^ate trace EventLog-System '-ets' --p "Microsoft-Windows-Kernel-Process"
+logman.exe upd^ate trace EventLog-System '-ets' -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+logman.exe upd^ate trace EventLog-System --p "Microsoft-Windows-Kernel-Process" '-ets'
+logman.exe upd^ate trace EventLog-System --p "Microsoft-Windows-Kernel-Process" -ets
+logman.exe upd^ate trace EventLog-System -ets --p "Microsoft-Windows-Kernel-Process"
+logman.exe upd^ate trace EventLog-System -ets -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+logman.exe upd^ate trace EventLog-System -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} '-ets'
+logman.exe upd^ate trace EventLog-System -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} -ets
+logman.exe update trace "Circular Kernel Context Logger" '-ets' --p "Microsoft-Windows-Kernel-Process"
+logman.exe update trace "Circular Kernel Context Logger" '-ets' -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+logman.exe update trace "Circular Kernel Context Logger" --p "Microsoft-Windows-Kernel-Process" '-ets'
+logman.exe update trace "Circular Kernel Context Logger" --p "Microsoft-Windows-Kernel-Process" -ets
+logman.exe update trace "Circular Kernel Context Logger" -ets --p "Microsoft-Windows-Kernel-Process"
+logman.exe update trace "Circular Kernel Context Logger" -ets -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+logman.exe update trace "Circular Kernel Context Logger" -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} '-ets'
+logman.exe update trace "Circular Kernel Context Logger" -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} -ets
+logman.exe update trace EventLog-System '-ets' --p "Microsoft-Windows-Kernel-Process"
+logman.exe update trace EventLog-System '-ets' -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+logman.exe update trace EventLog-System --p "Microsoft-Windows-Kernel-Process" '-ets'
+logman.exe update trace EventLog-System --p "Microsoft-Windows-Kernel-Process" -ets
+logman.exe update trace EventLog-System -ets --p "Microsoft-Windows-Kernel-Process"
+logman.exe update trace EventLog-System -ets -p {0819b1d9-6c39-4ea3-8ca4-685f00251728}
+logman.exe update trace EventLog-System -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} '-ets'
+logman.exe update trace EventLog-System -p {0819b1d9-6c39-4ea3-8ca4-685f00251728} -ets
+powershell.exe -Command &('Rem' + 'ove-EtwTraceProvider') -Guid '{d62b96e2-b13d-4235-8698-1e245f3a2e06}'
+powershell.exe -Command Set-EtwTraceProvider -Guid '{d62b96e2-b13d-4235-8698-1e245f3a2e06}' -Mode ('0x1' + '1')
+powershell.exe -EncodedCommand UgBlAG0AbwB2AGUALQBF AHQAdwBUAHIAYQBjAGUAUAByAG8AdgBpAGQAZQByACAALQBHAHUAaQBkACAAJwB7AGQANgAyAGIAOQA2AGUAMgAtAGIAMQAzAGQALQA0ADIANwM1ADMALQA4ADYAOQA4AC0AMQBlADIANAA1AGYAMwBhADIAZQAwADYAfQAnAA==
+powershell.exe -EncodedCommand UwBlAHQA LQBFAHQAdwBUAHIAYQBjAGUAUAByAG8AdgBpAGQAZQByACAALQBHAHUAaQBkACAAJwB7AGQANgAyAGIAOQA2AGUAMgAtAGIAMQAzAGQALQA0ADIANwM1ADMALQA4ADYAOQA4AC0AMQBlADIANAA1AGYAMwBhADIAZQAwADYAfQAnACAALQBNAG8AZABlACAAMAB4ADEAMQA=
+pwsh.exe -Command &('Rem' + 'ove-EtwTraceProvider') -Guid '{d62b96e2-b13d-4235-8698-1e245f3a2e06}'
+pwsh.exe -Command Set-EtwTraceProvider -Guid '{d62b96e2-b13d-4235-8698-1e245f3a2e06}' -Mode ('0x1' + '1')
+pwsh.exe -EncodedCommand UgBlAG0AbwB2AGUALQBF AHQAdwBUAHIAYQBjAGUAUAByAG8AdgBpAGQAZQByACAALQBHAHUAaQBkACAAJwB7AGQANgAyAGIAOQA2AGUAMgAtAGIAMQAzAGQALQA0ADIANwM1ADMALQA4ADYAOQA4AC0AMQBlADIANAA1AGYAMwBhADIAZQAwADYAfQAnAA==
+pwsh.exe -EncodedCommand UwBlAHQA LQBFAHQAdwBUAHIAYQBjAGUAUAByAG8AdgBpAGQAZQByACAALQBHAHUAaQBkACAAJwB7AGQANgAyAGIAOQA2AGUAMgAtAGIAMQAzAGQALQA0ADIANwM1ADMALQA4ADYAOQA4AC0AMQBlADIANAA1AGYAMwBhADIAZQAwADYAfQAnACAALQBNAG8AZABlACAAMAB4ADEAMQA=
+wevtutil "sl" "Windows PowerShell" /E:FALSE
+wevtutil "sl" "Windows PowerShell" /e:false
+wevtutil "sl" Microsoft-Windows-Sysmon/Operational /E:FALSE
+wevtutil "sl" Microsoft-Windows-Sysmon/Operational /e:false
+wevtutil 'cl' "Windows PowerShell" /Trace
+wevtutil 'cl' Microsoft-Windows-Sysmon/Operational /Trace
+wevtutil c^l "Windows PowerShell" /Trace
+wevtutil c^l Microsoft-Windows-Sysmon/Operational /Trace
+wevtutil cl "Windows PowerShell" /Trace
+wevtutil cl Microsoft-Windows-Sysmon/Operational /Trace
+wevtutil clear-log "Windows PowerShell" /Trace
+wevtutil clear-log Microsoft-Windows-Sysmon/Operational /Trace
+wevtutil s^l "Windows PowerShell" /E:FALSE
+wevtutil s^l "Windows PowerShell" /e:false
+wevtutil s^l Microsoft-Windows-Sysmon/Operational /E:FALSE
+wevtutil s^l Microsoft-Windows-Sysmon/Operational /e:false
+wevtutil set-log "Windows PowerShell" /E:FALSE
+wevtutil set-log "Windows PowerShell" /e:false
+wevtutil set-log Microsoft-Windows-Sysmon/Operational /E:FALSE
+wevtutil set-log Microsoft-Windows-Sysmon/Operational /e:false
+wevtutil sl "Windows PowerShell" /E:FALSE
+wevtutil sl "Windows PowerShell" /e:false
+wevtutil sl Microsoft-Windows-Sysmon/Operational /E:FALSE
+wevtutil sl Microsoft-Windows-Sysmon/Operational /e:false
+wevtutil.exe "sl" "Windows PowerShell" /E:FALSE
+wevtutil.exe "sl" "Windows PowerShell" /e:false
+wevtutil.exe "sl" Microsoft-Windows-Sysmon/Operational /E:FALSE
+wevtutil.exe "sl" Microsoft-Windows-Sysmon/Operational /e:false
+wevtutil.exe 'cl' "Windows PowerShell" /Trace
+wevtutil.exe 'cl' Microsoft-Windows-Sysmon/Operational /Trace
+wevtutil.exe c^l "Windows PowerShell" /Trace
+wevtutil.exe c^l Microsoft-Windows-Sysmon/Operational /Trace
+wevtutil.exe cl "Windows PowerShell" /Trace
+wevtutil.exe cl Microsoft-Windows-Sysmon/Operational /Trace
+wevtutil.exe clear-log "Windows PowerShell" /Trace
+wevtutil.exe clear-log Microsoft-Windows-Sysmon/Operational /Trace
+wevtutil.exe s^l "Windows PowerShell" /E:FALSE
+wevtutil.exe s^l "Windows PowerShell" /e:false
+wevtutil.exe s^l Microsoft-Windows-Sysmon/Operational /E:FALSE
+wevtutil.exe s^l Microsoft-Windows-Sysmon/Operational /e:false
+wevtutil.exe set-log "Windows PowerShell" /E:FALSE
+wevtutil.exe set-log "Windows PowerShell" /e:false
+wevtutil.exe set-log Microsoft-Windows-Sysmon/Operational /E:FALSE
+wevtutil.exe set-log Microsoft-Windows-Sysmon/Operational /e:false
+wevtutil.exe sl "Windows PowerShell" /E:FALSE
+wevtutil.exe sl "Windows PowerShell" /e:false
+wevtutil.exe sl Microsoft-Windows-Sysmon/Operational /E:FALSE
+wevtutil.exe sl Microsoft-Windows-Sysmon/Operational /e:false
